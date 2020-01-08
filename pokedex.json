@@ -8583,5 +8583,88 @@
     "type": [
       "Water"
     ]
+  },
+  {
+    "id": 819,
+    "name": {
+      "en": "Skwovet",
+      "ja": "ホシガリス"
+    },
+    "type": [
+      "Normal"
+    ]
+  },
+  {
+    "id": 820,
+    "name": {
+      "en": "Greedent",
+      "ja": "ヨクバリス"
+    },
+    "type": [
+      "Normal"
+    ]
+  },
+  {
+    "id": 821,
+    "name": {
+      "en": "Rookidee",
+      "ja": "ココガラ"
+    },
+    "type": [
+      "Flying"
+    ]
+  },
+  {
+    "id": 822,
+    "name": {
+      "en": "Corvisquire",
+      "ja": "アオガラス"
+    },
+    "type": [
+      "Flying"
+    ]
+  },
+  {
+    "id": 823,
+    "name": {
+      "en": "Corviknight",
+      "ja": "アーマーガア"
+    },
+    "type": [
+      "Flying",
+      "Steel"
+    ]
+  },
+  {
+    "id": 824,
+    "name": {
+      "en": "Blipbug",
+      "ja": "サッチムシ"
+    },
+    "type": [
+      "Bug"
+    ]
+  },
+    {
+    "id": 825,
+    "name": {
+      "en": "Dottler",
+      "ja": "レドームシ"
+    },
+    "type": [
+      "Bug",
+      "Psychic"
+    ]
+  },
+  {
+    "id": 826,
+    "name": {
+      "en": "Orbeetle",
+      "ja": "イオルブ"
+    },
+    "type": [
+      "Bug",
+      "Psychic"
+    ]
   }
 ]
