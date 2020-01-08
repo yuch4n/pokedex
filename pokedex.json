@@ -8666,5 +8666,77 @@
       "Bug",
       "Psychic"
     ]
+  },
+  {
+    "id": 827,
+    "name": {
+      "en": "Nickit",
+      "ja": "クスネ"
+    },
+    "type": [
+      "Dark"
+    ]
+  },
+  {
+    "id": 828,
+    "name": {
+      "en": "Thievul",
+      "ja": "フォクスライ"
+    },
+    "type": [
+      "Dark"
+    ]
+  },
+  {
+    "id": 831,
+    "name": {
+      "en": "Wooloo",
+      "ja": "ウールー"
+    },
+    "type": [
+      "Normal"
+    ]
+  },
+  {
+    "id": 832,
+    "name": {
+      "en": "Dubwool",
+      "ja": "バイウールー"
+    },
+    "type": [
+      "Normal"
+    ]
+  },
+  {
+    "id": 833,
+    "name": {
+      "en": "Chewtle",
+      "ja": "カムカメ"
+    },
+    "type": [
+      "Water"
+    ]
+  },
+  {
+    "id": 834,
+    "name": {
+      "en": "Drednaw",
+      "ja": "カジリガメ"
+    },
+    "type": [
+      "Water",
+      "Rock"
+    ]
+  },
+  {
+    "id": 862,
+    "name": {
+      "en": "Obstagoon",
+      "ja": "タチフサグマ"
+    },
+    "type": [
+      "Dark",
+      "Normal"
+    ]
   }
 ]
