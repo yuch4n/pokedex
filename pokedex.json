@@ -8897,6 +8897,16 @@
     ]
   },
   {
+    "id": 865,
+    "name": {
+      "en": "Sirfetch'd",
+      "ja": "ネギガナイト"
+    },
+    "type": [
+      "Fighting"
+    ]
+  },
+  {
     "id": 868,
     "name": {
       "en": "Milcery",
