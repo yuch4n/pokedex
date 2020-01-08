@@ -8688,6 +8688,26 @@
     ]
   },
   {
+    "id": 829,
+    "name": {
+      "en": "Gossifleur",
+      "ja": "ヒメンカ"
+    },
+    "type": [
+      "Grass"
+    ]
+  },
+  {
+    "id": 830,
+    "name": {
+      "en": "Eldegoss",
+      "ja": "ワタシラガ"
+    },
+    "type": [
+      "Grass"
+    ]
+  },
+  {
     "id": 831,
     "name": {
       "en": "Wooloo",
@@ -8729,6 +8749,133 @@
     ]
   },
   {
+    "id": 835,
+    "name": {
+      "en": "Yamper",
+      "ja": "ワンパチ"
+    },
+    "type": [
+      "Electric"
+    ]
+  },
+  {
+    "id": 836,
+    "name": {
+      "en": "Boltund",
+      "ja": "パルスワン"
+    },
+    "type": [
+      "Electric"
+    ]
+  },
+  {
+    "id": 837,
+    "name": {
+      "en": "Rolycoly",
+      "ja": "タンドン"
+    },
+    "type": [
+      "Rock"
+    ]
+  },
+  {
+    "id": 838,
+    "name": {
+      "en": "Carkol",
+      "ja": "トロッゴン"
+    },
+    "type": [
+      "Rock",
+      "Fire"
+    ]
+  },
+  {
+    "id": 839,
+    "name": {
+      "en": "Coalossal",
+      "ja": "セキタンザン"
+    },
+    "type": [
+      "Rock",
+      "Fire"
+    ]
+  },
+  {
+    "id": 840,
+    "name": {
+      "en": "Applin",
+      "ja": "カジッチュ"
+    },
+    "type": [
+      "Grass",
+      "Dragon"
+    ]
+  },
+  {
+    "id": 841,
+    "name": {
+      "en": "Flapple",
+      "ja": "アップリュー"
+    },
+    "type": [
+      "Grass",
+      "Dragon"
+    ]
+  },
+  {
+    "id": 842,
+    "name": {
+      "en": "Appletun",
+      "ja": "タルップル"
+    },
+    "type": [
+      "Grass",
+      "Dragon"
+    ]
+  },
+  {
+    "id": 846,
+    "name": {
+      "en": "Arrokuda",
+      "ja": "サシカマス"
+    },
+    "type": [
+      "Water"
+    ]
+  },
+  {
+    "id": 847,
+    "name": {
+      "en": "Barraskewda",
+      "ja": "カマスジョー"
+    },
+    "type": [
+      "Water"
+    ]
+  },
+  {
+    "id": 850,
+    "name": {
+      "en": "Sizzlipede",
+      "ja": "ヤクデ"
+    },
+    "type": [
+      "Fire",
+      "Bug"
+    ]
+  },
+  {
+    "id": 851,
+    "name": {
+      "en": "Centiskorch",
+      "ja": "マルヤクデ"
+    },
+    "type": [
+      "Fire",
+      "Bug"
+    ]
+  },
+  {
     "id": 862,
     "name": {
       "en": "Obstagoon",
@@ -8737,6 +8884,36 @@
     "type": [
       "Dark",
       "Normal"
+    ]
+  },
+  {
+    "id": 863,
+    "name": {
+      "en": "Perrserker",
+      "ja": "ニャイキング"
+    },
+    "type": [
+      "Steel"
+    ]
+  },
+  {
+    "id": 868,
+    "name": {
+      "en": "Milcery",
+      "ja": "マホミル"
+    },
+    "type": [
+      "Fairy"
+    ]
+  },
+  {
+    "id": 869,
+    "name": {
+      "en": "Alcremie",
+      "ja": "マホイップ"
+    },
+    "type": [
+      "Fairy"
     ]
   }
 ]
