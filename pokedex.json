@@ -1,10 +1,10 @@
 [
-	{
-		"id": 1,
-		"name": {
-			"ja": "フシギダネ",
-			"en": "Bulbizarre"
-		},
-		"type": ["Grass","Poison"]
-	}
+  {
+    "id": 1,
+    "name": {
+      "ja": "フシギダネ",
+      "en": "Bulbizarre"
+    },
+    "type": ["Grass","Poison"]
+  }
 ]
