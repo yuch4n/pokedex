@@ -8834,6 +8834,37 @@
     ]
   },
   {
+    "id": 843,
+    "name": {
+      "en": "Silicobra",
+      "ja": "スナヘビ"
+    },
+    "type": [
+      "Ground"
+    ]
+  },
+  {
+    "id": 844,
+    "name": {
+      "en": "Sandaconda",
+      "ja": "サダイジャ"
+    },
+    "type": [
+      "Ground"
+    ]
+  },
+  {
+    "id": 845,
+    "name": {
+      "en": "Cramorant",
+      "ja": "ウッウ"
+    },
+    "type": [
+      "Flying",
+      "Water"
+    ]
+  },
+  {
     "id": 846,
     "name": {
       "en": "Arrokuda",
@@ -8851,6 +8882,28 @@
     },
     "type": [
       "Water"
+    ]
+  },
+  {
+    "id": 848,
+    "name": {
+      "en": "Toxel",
+      "ja": "エレズン"
+    },
+    "type": [
+      "Electric",
+      "Poison"
+    ]
+  },
+  {
+    "id": 849,
+    "name": {
+      "en": "Toxtricity",
+      "ja": "ストリンダー"
+    },
+    "type": [
+      "Electric",
+      "Poison"
     ]
   },
   {
@@ -8876,6 +8929,110 @@
     ]
   },
   {
+    "id": 852,
+    "name": {
+      "en": "Clobbopus",
+      "ja": "タタッコ"
+    },
+    "type": [
+      "Fighting"
+    ]
+  },
+  {
+    "id": 853,
+    "name": {
+      "en": "Grapploct",
+      "ja": "オトスパス"
+    },
+    "type": [
+      "Fighting"
+    ]
+  },
+  {
+    "id": 854,
+    "name": {
+      "en": "Sinistea",
+      "ja": "ヤバチャ"
+    },
+    "type": [
+      "Ghost"
+    ]
+  },
+  {
+    "id": 855,
+    "name": {
+      "en": "Polteageist",
+      "ja": "ポットデス"
+    },
+    "type": [
+      "Ghost"
+    ]
+  },
+  {
+    "id": 856,
+    "name": {
+      "en": "Hatenna",
+      "ja": "ミブリム"
+    },
+    "type": [
+      "Psychic"
+    ]
+  },
+  {
+    "id": 857,
+    "name": {
+      "en": "Hattrem",
+      "ja": "テブリム"
+    },
+    "type": [
+      "Psychic"
+    ]
+  },
+  {
+    "id": 858,
+    "name": {
+      "en": "Hatterene",
+      "ja": "ブリムオン"
+    },
+    "type": [
+      "Psychic",
+      "Fairy"      
+    ]
+  },
+  {
+    "id": 859,
+    "name": {
+      "en": "Impidimp",
+      "ja": "ベロバー"
+    },
+    "type": [
+      "Dark",
+      "Fairy"
+    ]
+  },
+  {
+    "id": 860,
+    "name": {
+      "en": "Morgrem",
+      "ja": "ギモー"
+    },
+    "type": [
+      "Dark",
+      "Fairy"
+    ]
+  },
+  {
+    "id": 861,
+    "name": {
+      "en": "Grimmsnarl",
+      "ja": "オーロンゲ"
+    },
+    "type": [
+      "Dark",
+      "Fairy"
+    ]
+  },
+  {
     "id": 862,
     "name": {
       "en": "Obstagoon",
@@ -8897,6 +9054,16 @@
     ]
   },
   {
+    "id": 864,
+    "name": {
+      "en": "Cursola",
+      "ja": "サニゴーン"
+    },
+    "type": [
+      "Ghost"
+    ]
+  },
+  {
     "id": 865,
     "name": {
       "en": "Sirfetch'd",
@@ -8904,6 +9071,28 @@
     },
     "type": [
       "Fighting"
+    ]
+  },
+  {
+    "id": 866,
+    "name": {
+      "en": "Mr. Rime",
+      "ja": "バリコオル"
+    },
+    "type": [
+      "Ice",
+      "Psychic"
+    ]
+  },
+  {
+    "id": 867,
+    "name": {
+      "en": "Runerigus",
+      "ja": "デスバーン"
+    },
+    "type": [
+      "Ground",
+      "Ghost"
     ]
   },
   {
@@ -8924,6 +9113,229 @@
     },
     "type": [
       "Fairy"
+    ]
+  },
+  {
+    "id": 870,
+    "name": {
+      "en": "Falinks",
+      "ja": "タイレーツ"
+    },
+    "type": [
+      "Fighting"
+    ]
+  },
+  {
+    "id": 871,
+    "name": {
+      "en": "Pincurchin",
+      "ja": "バチンウニ"
+    },
+    "type": [
+      "Electric"
+    ]
+  },
+  {
+    "id": 872,
+    "name": {
+      "en": "Snom",
+      "ja": "ユキハミ"
+    },
+    "type": [
+      "Ice",
+      "Bug"
+    ]
+  },
+  {
+    "id": 873,
+    "name": {
+      "en": "Frosmoth",
+      "ja": "モスノウ"
+    },
+    "type": [
+      "Ice",
+      "Bug"      
+    ]
+  },
+  {
+    "id": 874,
+    "name": {
+      "en": "Stonjourner",
+      "ja": "イシヘンジン"
+    },
+    "type": [
+      "Rock"
+    ]
+  },
+  {
+    "id": 875,
+    "name": {
+      "en": "Eiscue",
+      "ja": "コオリッポ"
+    },
+    "type": [
+      "Ice"
+    ]
+  },
+  {
+    "id": 876,
+    "name": {
+      "en": "Indeedee",
+      "ja": "イエッサン"
+    },
+    "type": [
+      "Psychic",
+      "Normal"
+    ]
+  },
+  {
+    "id": 877,
+    "name": {
+      "en": "Morpeko",
+      "ja": "モルペコ"
+    },
+    "type": [
+      "Electric",
+      "Dark"
+    ]
+  },
+  {
+    "id": 878,
+    "name": {
+      "en": "Cufant",
+      "ja": "ゾウドウ"
+    },
+    "type": [
+      "Steel"
+    ]
+  },
+  {
+    "id": 879,
+    "name": {
+      "en": "Copperajah",
+      "ja": "ダイオウドウ"
+    },
+    "type": [
+      "Steel"
+    ]
+  },
+  {
+    "id": 880,
+    "name": {
+      "en": "Dracozolt",
+      "ja": "パッチラゴン"
+    },
+    "type": [
+      "Electric",
+      "Dragon"
+    ]
+  },
+  {
+    "id": 881,
+    "name": {
+      "en": "Arctozolt",
+      "ja": "パッチルドン"
+    },
+    "type": [
+      "Electric",
+      "Ice"
+    ]
+  },
+  {
+    "id": 882,
+    "name": {
+      "en": "Dracovish",
+      "ja": "ウオノラゴン"
+    },
+    "type": [
+      "Water",
+      "Dragon"
+    ]
+  },
+  {
+    "id": 883,
+    "name": {
+      "en": "Arctovish",
+      "ja": "ウオチルドン"
+    },
+    "type": [
+      "Water",
+      "Ice"
+    ]
+  },
+  {
+    "id": 884,
+    "name": {
+      "en": "Duraludon",
+      "ja": "ジュラルドン"
+    },
+    "type": [
+      "Steel",
+      "Dragon"
+    ]
+  },
+  {
+    "id": 885,
+    "name": {
+      "en": "Dreepy",
+      "ja": "ドラメシヤ"
+    },
+    "type": [
+      "Dragon",
+      "Ghost"
+    ]
+  },
+  {
+    "id": 886,
+    "name": {
+      "en": "Drakloak",
+      "ja": "ドロンチ"
+    },
+    "type": [
+      "Dragon",
+      "Ghost"
+    ]
+  },
+  {
+    "id": 887,
+    "name": {
+      "en": "Dragapult",
+      "ja": "ドラパルト"
+    },
+    "type": [
+      "Dragon",
+      "Ghost"
+    ]
+  },
+  {
+    "id": 888,
+    "name": {
+      "en": "Zacian",
+      "ja": "ザシアン"
+    },
+    "type": [
+      "Fairy"
+    ]
+  },
+  {
+    "id": 889,
+    "name": {
+      "en": "Zamazenta",
+      "ja": "ザマゼンタ"
+    },
+    "type": [
+      "Fighting"
+    ]
+  },
+  {
+    "id": 890,
+    "name": {
+      "en": "Eternatus",
+      "ja": "ムゲンダイナ"
+    },
+    "type": [
+      "Poison",
+      "Dragon"
     ]
   }
 ]
