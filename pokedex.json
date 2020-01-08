@@ -8493,5 +8493,95 @@
     "type": [
       "Steel"
     ]
+  },
+  {
+    "id": 810,
+    "name": {
+      "en": "Grookey",
+      "ja": "サルノリ"
+    },
+    "type": [
+      "Grass"
+    ]
+  },
+  {
+    "id": 811,
+    "name": {
+      "en": "Thwackey",
+      "ja": "バチンキー"
+    },
+    "type": [
+      "Grass"
+    ]
+  },
+  {
+    "id": 812,
+    "name": {
+      "en": "Rillaboom",
+      "ja": "ゴリランダー"
+    },
+    "type": [
+      "Grass"
+    ]
+  },
+  {
+    "id": 813,
+    "name": {
+      "en": "Scorbunny",
+      "ja": "ヒバニー"
+    },
+    "type": [
+      "Fire"
+    ]
+  },
+  {
+    "id": 814,
+    "name": {
+      "en": "Raboot",
+      "ja": "ラビフット"
+    },
+    "type": [
+      "Fire"
+    ]
+  },
+  {
+    "id": 815,
+    "name": {
+      "en": "Cinderace",
+      "ja": "エースバーン"
+    },
+    "type": [
+      "Fire"
+    ]
+  },
+  {
+    "id": 816,
+    "name": {
+      "en": "Sobble",
+      "ja": "メッソン"
+    },
+    "type": [
+      "Water"
+    ]
+  },
+  {
+    "id": 817,
+    "name": {
+      "en": "Drizzile",
+      "ja": "ジメレオン"
+    },
+    "type": [
+      "Water"
+    ]
+  },
+  {
+    "id": 818,
+    "name": {
+      "en": "Inteleon",
+      "ja": "インテレオン"
+    },
+    "type": [
+      "Water"
+    ]
   }
 ]
