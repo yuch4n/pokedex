@@ -2,7 +2,7 @@
   "Normal": {
     "Normal": 1,
     "Fire": 1,
-    "Water": 1
+    "Water": 1,
     "Grass": 1,
     "Electric": 1,
     "Ice": 1,
@@ -22,7 +22,7 @@
   "Fire": {
     "Normal": ,
     "Fire": ,
-    "Water": 
+    "Water": ,
     "Grass": ,
     "Electric": ,
     "Ice": ,
@@ -42,7 +42,7 @@
   "X": {
     "Normal": ,
     "Fire": ,
-    "Water": 
+    "Water": ,
     "Grass": ,
     "Electric": ,
     "Ice": ,
