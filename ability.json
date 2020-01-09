@@ -1,0 +1,1292 @@
+{
+  "Adaptability": {
+    "lang": {
+      "ja": "てきおうりょく"
+    }
+  },
+	"Aerilate": {
+    "lang": {
+      "ja": "スカイスキン"
+    }
+  },
+	"Aftermath": {
+    "lang": {
+      "ja": "ゆうばく"
+    }
+  },
+	"Air Lock": {
+    "lang": {
+      "ja": "エアロック"
+    }
+  },
+	"Analytic": {
+    "lang": {
+      "ja": "アナライズ"
+    }
+  },
+	"Anger Point": {
+    "lang": {
+      "ja": "いかりのつぼ"
+    }
+  },
+	"Anticipation": {
+    "lang": {
+      "ja": "きけんよち"
+    }
+  },
+	"Arena Trap": {
+    "lang": {
+      "ja": "ありじごく"
+    }
+  },
+	"Aroma Veil": {
+    "lang": {
+      "ja": "アロマベール"
+    }
+  },
+	"Aura Break": {
+    "lang": {
+      "ja": "オーラブレイク"
+    }
+  },
+	"Bad Dreams": {
+    "lang": {
+      "ja": "ナイトメア"
+    }
+  },
+	"Ball Fetch": {
+    "lang": {
+      "ja": "たまひろい"
+    }
+  },
+	"Battery": {
+    "lang": {
+      "ja": "バッテリー"
+    }
+  },
+	"Battle Armor": {
+    "lang": {
+      "ja": "カブトアーマー"
+    }
+  },
+	"Battle Bond": {
+    "lang": {
+      "ja": "きずなへんげ"
+    }
+  },
+	"Beast Boost": {
+    "lang": {
+      "ja": "ビーストブースト"
+    }
+  },
+	"Berserk": {
+    "lang": {
+      "ja": "ぎゃくじょう"
+    }
+  },
+	"Big Pecks": {
+    "lang": {
+      "ja": "はとむね"
+    }
+  },
+	"Blaze": {
+    "lang": {
+      "ja": "もうか"
+    }
+  },
+	"Bulletproof": {
+    "lang": {
+      "ja": "ぼうだん"
+    }
+  },
+	"Cheek Pouch": {
+    "lang": {
+      "ja": "ほおぶくろ"
+    }
+  },
+	"Chlorophyll": {
+    "lang": {
+      "ja": "ようりょくそ"
+    }
+  },
+	"Clear Body": {
+    "lang": {
+      "ja": "クリアボディ"
+    }
+  },
+	"Cloud Nine": {
+    "lang": {
+      "ja": "ノーてんき"
+    }
+  },
+	"Color Change": {
+    "lang": {
+      "ja": "へんしょく"
+    }
+  },
+	"Comatose": {
+    "lang": {
+      "ja": "ぜったいねむり"
+    }
+  },
+	"Competitive": {
+    "lang": {
+      "ja": "かちき"
+    }
+  },
+	"Compound Eyes": {
+    "lang": {
+      "ja": "ふくがん"
+    }
+  },
+	"Contrary": {
+    "lang": {
+      "ja": "あまのじゃく"
+    }
+  },
+	"Corrosion": {
+    "lang": {
+      "ja": "ふしょく"
+    }
+  },
+	"Cotton Down": {
+    "lang": {
+      "ja": "わたげ"
+    }
+  },
+	"Cursed Body": {
+    "lang": {
+      "ja": "のろわれボディ"
+    }
+  },
+	"Cute Charm": {
+    "lang": {
+      "ja": "メロメロボディ"
+    }
+  },
+	"Damp": {
+    "lang": {
+      "ja": "しめりけ"
+    }
+  },
+	"Dancer": {
+    "lang": {
+      "ja": "おどりこ"
+    }
+  },
+	"Dark Aura": {
+    "lang": {
+      "ja": "ダークオーラ"
+    }
+  },
+	"Dauntless Shield": {
+    "lang": {
+      "ja": "ふくつのたて"
+    }
+  },
+	"Dazzling": {
+    "lang": {
+      "ja": "ビビッドボディ"
+    }
+  },
+	"Defeatist": {
+    "lang": {
+      "ja": "よわき"
+    }
+  },
+	"Defiant": {
+    "lang": {
+      "ja": "まけんき"
+    }
+  },
+	"Delta Stream": {
+    "lang": {
+      "ja": "デルタストリーム"
+    }
+  },
+	"Desolate Land": {
+    "lang": {
+      "ja": "おわりのだいち"
+    }
+  },
+	"Disguise": {
+    "lang": {
+      "ja": "ばけのかわ"
+    }
+  },
+	"Download": {
+    "lang": {
+      "ja": "ダウンロード"
+    }
+  },
+	"Drizzle": {
+    "lang": {
+      "ja": "あめふらし"
+    }
+  },
+	"Drought": {
+    "lang": {
+      "ja": "ひでり"
+    }
+  },
+	"Dry Skin": {
+    "lang": {
+      "ja": "かんそうはだ"
+    }
+  },
+	"Early Bird": {
+    "lang": {
+      "ja": "はやおき"
+    }
+  },
+	"Effect Spore": {
+    "lang": {
+      "ja": "ほうし"
+    }
+  },
+	"Electric Surge": {
+    "lang": {
+      "ja": "エレキメイカー"
+    }
+  },
+	"Emergency Exit": {
+    "lang": {
+      "ja": "ききかいひ"
+    }
+  },
+	"Fairy Aura": {
+    "lang": {
+      "ja": "フェアリーオーラ"
+    }
+  },
+	"Filter": {
+    "lang": {
+      "ja": "フィルター"
+    }
+  },
+	"Flame Body": {
+    "lang": {
+      "ja": "ほのおのからだ"
+    }
+  },
+	"Flare Boost": {
+    "lang": {
+      "ja": "ねつぼうそう"
+    }
+  },
+	"Flash Fire": {
+    "lang": {
+      "ja": "もらいび"
+    }
+  },
+	"Flower Gift": {
+    "lang": {
+      "ja": "フラワーギフト"
+    }
+  },
+	"Flower Veil": {
+    "lang": {
+      "ja": "フラワーベール"
+    }
+  },
+	"Fluffy": {
+    "lang": {
+      "ja": "もふもふ"
+    }
+  },
+	"Forecast": {
+    "lang": {
+      "ja": "てんきや"
+    }
+  },
+	"Forewarn": {
+    "lang": {
+      "ja": "よちむ"
+    }
+  },
+	"Friend Guard": {
+    "lang": {
+      "ja": "フレンドガード"
+    }
+  },
+	"Frisk": {
+    "lang": {
+      "ja": "おみとおし"
+    }
+  },
+	"Full Metal Body": {
+    "lang": {
+      "ja": "メタルプロテクト"
+    }
+  },
+	"Fur Coat": {
+    "lang": {
+      "ja": "ファーコート"
+    }
+  },
+	"Gale Wings": {
+    "lang": {
+      "ja": "はやてのつばさ"
+    }
+  },
+	"Galvanize": {
+    "lang": {
+      "ja": "エレキスキン"
+    }
+  },
+	"Gluttony": {
+    "lang": {
+      "ja": "くいしんぼう"
+    }
+  },
+	"Gooey": {
+    "lang": {
+      "ja": "ぬめぬめ"
+    }
+  },
+	"Gorilla Tactics": {
+    "lang": {
+      "ja": "ごりむちゅう"
+    }
+  },
+	"Grass Pelt": {
+    "lang": {
+      "ja": "くさのけがわ"
+    }
+  },
+	"Grassy Surge": {
+    "lang": {
+      "ja": "グラスメイカー"
+    }
+  },
+	"Gulp Missile": {
+    "lang": {
+      "ja": "うのミサイル"
+    }
+  },
+	"Guts": {
+    "lang": {
+      "ja": "こんじょう"
+    }
+  },
+	"Harvest": {
+    "lang": {
+      "ja": "しゅうかく"
+    }
+  },
+	"Healer": {
+    "lang": {
+      "ja": "いやしのこころ"
+    }
+  },
+	"Heatproof": {
+    "lang": {
+      "ja": "たいねつ"
+    }
+  },
+	"Heavy Metal": {
+    "lang": {
+      "ja": "ヘヴィメタル"
+    }
+  },
+	"Honey Gather": {
+    "lang": {
+      "ja": "みつあつめ"
+    }
+  },
+	"Huge Power": {
+    "lang": {
+      "ja": "ちからもち"
+    }
+  },
+	"Hunger Switch": {
+    "lang": {
+      "ja": "はらぺこスイッチ"
+    }
+  },
+	"Hustle": {
+    "lang": {
+      "ja": "はりきり"
+    }
+  },
+	"Hydration": {
+    "lang": {
+      "ja": "うるおいボディ"
+    }
+  },
+	"Hyper Cutter": {
+    "lang": {
+      "ja": "かいりきバサミ"
+    }
+  },
+	"Ice Body": {
+    "lang": {
+      "ja": "アイスボディ"
+    }
+  },
+	"Ice Face": {
+    "lang": {
+      "ja": "アイスフェイス"
+    }
+  },
+	"Ice Scales": {
+    "lang": {
+      "ja": "こおりのりんぷん"
+    }
+  },
+	"Illuminate": {
+    "lang": {
+      "ja": "はっこう"
+    }
+  },
+	"Illusion": {
+    "lang": {
+      "ja": "イリュージョン"
+    }
+  },
+	"Immunity": {
+    "lang": {
+      "ja": "めんえき"
+    }
+  },
+	"Imposter": {
+    "lang": {
+      "ja": "かわりもの"
+    }
+  },
+	"Infiltrator": {
+    "lang": {
+      "ja": "すりぬけ"
+    }
+  },
+	"Innards Out": {
+    "lang": {
+      "ja": "とびだすなかみ"
+    }
+  },
+	"Inner Focus": {
+    "lang": {
+      "ja": "せいしんりょく"
+    }
+  },
+	"Insomnia": {
+    "lang": {
+      "ja": "ふみん"
+    }
+  },
+	"Intimidate": {
+    "lang": {
+      "ja": "いかく"
+    }
+  },
+	"Intrepid Sword": {
+    "lang": {
+      "ja": "ふとうのけん"
+    }
+  },
+	"Iron Barbs": {
+    "lang": {
+      "ja": "てつのトゲ"
+    }
+  },
+	"Iron Fist": {
+    "lang": {
+      "ja": "てつのこぶし"
+    }
+  },
+	"Justified": {
+    "lang": {
+      "ja": "せいぎのこころ"
+    }
+  },
+	"Keen Eye": {
+    "lang": {
+      "ja": "するどいめ"
+    }
+  },
+	"Klutz": {
+    "lang": {
+      "ja": "ぶきよう"
+    }
+  },
+	"Leaf Guard": {
+    "lang": {
+      "ja": "リーフガード"
+    }
+  },
+	"Levitate": {
+    "lang": {
+      "ja": "ふゆう"
+    }
+  },
+	"Libero": {
+    "lang": {
+      "ja": "リベロ"
+    }
+  },
+	"Light Metal": {
+    "lang": {
+      "ja": "ライトメタル"
+    }
+  },
+	"Lightning Rod": {
+    "lang": {
+      "ja": "ひらいしん"
+    }
+  },
+	"Limber": {
+    "lang": {
+      "ja": "じゅうなん"
+    }
+  },
+	"Liquid Ooze": {
+    "lang": {
+      "ja": "ヘドロえき"
+    }
+  },
+	"Liquid Voice": {
+    "lang": {
+      "ja": "うるおいボイス"
+    }
+  },
+	"Long Reach": {
+    "lang": {
+      "ja": "えんかく"
+    }
+  },
+	"Magic Bounce": {
+    "lang": {
+      "ja": "マジックミラー"
+    }
+  },
+	"Magic Guard": {
+    "lang": {
+      "ja": "マジックガード"
+    }
+  },
+	"Magician": {
+    "lang": {
+      "ja": "マジシャン"
+    }
+  },
+	"Magma Armor": {
+    "lang": {
+      "ja": "マグマのよろい"
+    }
+  },
+	"Magnet Pull": {
+    "lang": {
+      "ja": "じりょく"
+    }
+  },
+	"Marvel Scale": {
+    "lang": {
+      "ja": "ふしぎなうろこ"
+    }
+  },
+	"Mega Launcher": {
+    "lang": {
+      "ja": "メガランチャー"
+    }
+  },
+	"Merciless": {
+    "lang": {
+      "ja": "ひとでなし"
+    }
+  },
+	"Mimicry": {
+    "lang": {
+      "ja": "ぎたい"
+    }
+  },
+	"Minus": {
+    "lang": {
+      "ja": "マイナス"
+    }
+  },
+	"Mirror Armor": {
+    "lang": {
+      "ja": "ミラーアーマー"
+    }
+  },
+	"Misty Surge": {
+    "lang": {
+      "ja": "ミストメイカー"
+    }
+  },
+	"Mold Breaker": {
+    "lang": {
+      "ja": "かたやぶり"
+    }
+  },
+	"Moody": {
+    "lang": {
+      "ja": "ムラっけ"
+    }
+  },
+	"Motor Drive": {
+    "lang": {
+      "ja": "でんきエンジン"
+    }
+  },
+	"Moxie": {
+    "lang": {
+      "ja": "じしんかじょう"
+    }
+  },
+	"Multiscale": {
+    "lang": {
+      "ja": "マルチスケイル"
+    }
+  },
+	"Multitype": {
+    "lang": {
+      "ja": "マルチタイプ"
+    }
+  },
+	"Mummy": {
+    "lang": {
+      "ja": "ミイラ"
+    }
+  },
+	"Natural Cure": {
+    "lang": {
+      "ja": "しぜんかいふく"
+    }
+  },
+	"Neuroforce": {
+    "lang": {
+      "ja": "ブレインフォース"
+    }
+  },
+	"Neutralizing Gas": {
+    "lang": {
+      "ja": "かがくへんかガス"
+    }
+  },
+	"No Guard": {
+    "lang": {
+      "ja": "ノーガード"
+    }
+  },
+	"Normalize": {
+    "lang": {
+      "ja": "ノーマルスキン"
+    }
+  },
+	"Oblivious": {
+    "lang": {
+      "ja": "どんかん"
+    }
+  },
+	"Overcoat": {
+    "lang": {
+      "ja": "ぼうじん"
+    }
+  },
+	"Overgrow": {
+    "lang": {
+      "ja": "しんりょく"
+    }
+  },
+	"Own Tempo": {
+    "lang": {
+      "ja": "マイペース"
+    }
+  },
+	"Parental Bond": {
+    "lang": {
+      "ja": "おやこあい"
+    }
+  },
+	"Pastel Veil": {
+    "lang": {
+      "ja": "パステルベール"
+    }
+  },
+	"Perish Body": {
+    "lang": {
+      "ja": "ほろびのボディ"
+    }
+  },
+	"Pickpocket": {
+    "lang": {
+      "ja": "わるいてぐせ"
+    }
+  },
+	"Pickup": {
+    "lang": {
+      "ja": "ものひろい"
+    }
+  },
+	"Pixilate": {
+    "lang": {
+      "ja": "フェアリースキン"
+    }
+  },
+	"Plus": {
+    "lang": {
+      "ja": "プラス"
+    }
+  },
+	"Poison Heal": {
+    "lang": {
+      "ja": "ポイズンヒール"
+    }
+  },
+	"Poison Point": {
+    "lang": {
+      "ja": "どくのトゲ"
+    }
+  },
+	"Poison Touch": {
+    "lang": {
+      "ja": "どくしゅ"
+    }
+  },
+	"Power Construct": {
+    "lang": {
+      "ja": "スワームチェンジ"
+    }
+  },
+	"Power of Alchemy": {
+    "lang": {
+      "ja": "かがくのちから"
+    }
+  },
+	"Power Spot": {
+    "lang": {
+      "ja": "パワースポット"
+    }
+  },
+	"Prankster": {
+    "lang": {
+      "ja": "いたずらごころ"
+    }
+  },
+	"Pressure": {
+    "lang": {
+      "ja": "プレッシャー"
+    }
+  },
+	"Primordial Sea": {
+    "lang": {
+      "ja": "はじまりのうみ"
+    }
+  },
+	"Prism Armor": {
+    "lang": {
+      "ja": "プリズムアーマー"
+    }
+  },
+	"Propeller Tail": {
+    "lang": {
+      "ja": "スクリューおびれ"
+    }
+  },
+	"Protean": {
+    "lang": {
+      "ja": "へんげんじざい"
+    }
+  },
+	"Psychic Surge": {
+    "lang": {
+      "ja": "サイコメイカー"
+    }
+  },
+	"Punk Rock": {
+    "lang": {
+      "ja": "パンクロック"
+    }
+  },
+	"Pure Power": {
+    "lang": {
+      "ja": "ヨガパワー"
+    }
+  },
+	"Queenly Majesty": {
+    "lang": {
+      "ja": "じょおうのいげん"
+    }
+  },
+	"Quick Feet": {
+    "lang": {
+      "ja": "はやあし"
+    }
+  },
+	"Rain Dish": {
+    "lang": {
+      "ja": "あめうけざら"
+    }
+  },
+	"Rattled": {
+    "lang": {
+      "ja": "びびり"
+    }
+  },
+	"Receiver": {
+    "lang": {
+      "ja": "レシーバー"
+    }
+  },
+	"Reckless": {
+    "lang": {
+      "ja": "すてみ"
+    }
+  },
+	"Refrigerate": {
+    "lang": {
+      "ja": "フリーズスキン"
+    }
+  },
+	"Regenerator": {
+    "lang": {
+      "ja": "さいせいりょく"
+    }
+  },
+	"Ripen": {
+    "lang": {
+      "ja": "じゅくせい"
+    }
+  },
+	"Rivalry": {
+    "lang": {
+      "ja": "とうそうしん"
+    }
+  },
+	"RKS System": {
+    "lang": {
+      "ja": "ARシステム"
+    }
+  },
+	"Rock Head": {
+    "lang": {
+      "ja": "いしあたま"
+    }
+  },
+	"Rough Skin": {
+    "lang": {
+      "ja": "さめはだ"
+    }
+  },
+	"Run Away": {
+    "lang": {
+      "ja": "にげあし"
+    }
+  },
+	"Sand Force": {
+    "lang": {
+      "ja": "すなのちから"
+    }
+  },
+	"Sand Rush": {
+    "lang": {
+      "ja": "すなかき"
+    }
+  },
+	"Sand Spit": {
+    "lang": {
+      "ja": "すなはき"
+    }
+  },
+	"Sand Stream": {
+    "lang": {
+      "ja": "すなおこし"
+    }
+  },
+	"Sand Veil": {
+    "lang": {
+      "ja": "すながくれ"
+    }
+  },
+	"Sap Sipper": {
+    "lang": {
+      "ja": "そうしょく"
+    }
+  },
+	"Schooling": {
+    "lang": {
+      "ja": "ぎょぐん"
+    }
+  },
+	"Scrappy": {
+    "lang": {
+      "ja": "きもったま"
+    }
+  },
+	"Screen Cleaner": {
+    "lang": {
+      "ja": "バリアフリー"
+    }
+  },
+	"Serene Grace": {
+    "lang": {
+      "ja": "てんのめぐみ"
+    }
+  },
+	"Shadow Shield": {
+    "lang": {
+      "ja": "ファントムガード"
+    }
+  },
+	"Shadow Tag": {
+    "lang": {
+      "ja": "かげふみ"
+    }
+  },
+	"Shed Skin": {
+    "lang": {
+      "ja": "だっぴ"
+    }
+  },
+	"Sheer Force": {
+    "lang": {
+      "ja": "ちからずく"
+    }
+  },
+	"Shell Armor": {
+    "lang": {
+      "ja": "シェルアーマー"
+    }
+  },
+	"Shield Dust": {
+    "lang": {
+      "ja": "りんぷん"
+    }
+  },
+	"Shields Down": {
+    "lang": {
+      "ja": "リミットシールド"
+    }
+  },
+	"Simple": {
+    "lang": {
+      "ja": "たんじゅん"
+    }
+  },
+	"Skill Link": {
+    "lang": {
+      "ja": "スキルリンク"
+    }
+  },
+	"Slow Start": {
+    "lang": {
+      "ja": "スロースタート"
+    }
+  },
+	"Slush Rush": {
+    "lang": {
+      "ja": "ゆきかき"
+    }
+  },
+	"Sniper": {
+    "lang": {
+      "ja": "スナイパー"
+    }
+  },
+	"Snow Cloak": {
+    "lang": {
+      "ja": "ゆきがくれ"
+    }
+  },
+	"Snow Warning": {
+    "lang": {
+      "ja": "ゆきふらし"
+    }
+  },
+	"Solar Power": {
+    "lang": {
+      "ja": "サンパワー"
+    }
+  },
+	"Solid Rock": {
+    "lang": {
+      "ja": "ハードロック"
+    }
+  },
+	"Soul-Heart": {
+    "lang": {
+      "ja": "ソウルハート"
+    }
+  },
+	"Soundproof": {
+    "lang": {
+      "ja": "ぼうおん"
+    }
+  },
+	"Speed Boost": {
+    "lang": {
+      "ja": "かそく"
+    }
+  },
+	"Stakeout": {
+    "lang": {
+      "ja": "はりこみ"
+    }
+  },
+	"Stall": {
+    "lang": {
+      "ja": "あとだし"
+    }
+  },
+	"Stalwart": {
+    "lang": {
+      "ja": "すじがねいり"
+    }
+  },
+	"Stamina": {
+    "lang": {
+      "ja": "じきゅうりょく"
+    }
+  },
+	"Stance Change": {
+    "lang": {
+      "ja": "バトルスイッチ"
+    }
+  },
+	"Static": {
+    "lang": {
+      "ja": "せいでんき"
+    }
+  },
+	"Steadfast": {
+    "lang": {
+      "ja": "ふくつのこころ"
+    }
+  },
+	"Steam Engine": {
+    "lang": {
+      "ja": "じょうききかん"
+    }
+  },
+	"Steelworker": {
+    "lang": {
+      "ja": "はがねつかい"
+    }
+  },
+	"Steely Spirit": {
+    "lang": {
+      "ja": "はがねのせいしん"
+    }
+  },
+	"Stench": {
+    "lang": {
+      "ja": "あくしゅう"
+    }
+  },
+	"Sticky Hold": {
+    "lang": {
+      "ja": "ねんちゃく"
+    }
+  },
+	"Storm Drain": {
+    "lang": {
+      "ja": "よびみず"
+    }
+  },
+	"Strong Jaw": {
+    "lang": {
+      "ja": "がんじょうあご"
+    }
+  },
+	"Sturdy": {
+    "lang": {
+      "ja": "がんじょう"
+    }
+  },
+	"Suction Cups": {
+    "lang": {
+      "ja": "きゅうばん"
+    }
+  },
+	"Super Luck": {
+    "lang": {
+      "ja": "きょううん"
+    }
+  },
+	"Surge Surfer": {
+    "lang": {
+      "ja": "サーフテール"
+    }
+  },
+	"Swarm": {
+    "lang": {
+      "ja": "むしのしらせ"
+    }
+  },
+	"Sweet Veil": {
+    "lang": {
+      "ja": "スイートベール"
+    }
+  },
+	"Swift Swim": {
+    "lang": {
+      "ja": "すいすい"
+    }
+  },
+	"Symbiosis": {
+    "lang": {
+      "ja": "きょうせい"
+    }
+  },
+	"Synchronize": {
+    "lang": {
+      "ja": "シンクロ"
+    }
+  },
+	"Tangled Feet": {
+    "lang": {
+      "ja": "ちどりあし"
+    }
+  },
+	"Tangling Hair": {
+    "lang": {
+      "ja": "カーリーヘアー"
+    }
+  },
+	"Technician": {
+    "lang": {
+      "ja": "テクニシャン"
+    }
+  },
+	"Telepathy": {
+    "lang": {
+      "ja": "テレパシー"
+    }
+  },
+	"Teravolt": {
+    "lang": {
+      "ja": "テラボルテージ"
+    }
+  },
+	"Thick Fat": {
+    "lang": {
+      "ja": "あついしぼう"
+    }
+  },
+	"Tinted Lens": {
+    "lang": {
+      "ja": "いろめがね"
+    }
+  },
+	"Torrent": {
+    "lang": {
+      "ja": "げきりゅう"
+    }
+  },
+	"Tough Claws": {
+    "lang": {
+      "ja": "かたいツメ"
+    }
+  },
+	"Toxic Boost": {
+    "lang": {
+      "ja": "どくぼうそう"
+    }
+  },
+	"Trace": {
+    "lang": {
+      "ja": "トレース"
+    }
+  },
+	"Triage": {
+    "lang": {
+      "ja": "ヒーリングシフト"
+    }
+  },
+	"Truant": {
+    "lang": {
+      "ja": "なまけ"
+    }
+  },
+	"Turboblaze": {
+    "lang": {
+      "ja": "ターボブレイズ"
+    }
+  },
+	"Unaware": {
+    "lang": {
+      "ja": "てんねん"
+    }
+  },
+	"Unburden": {
+    "lang": {
+      "ja": "かるわざ"
+    }
+  },
+	"Unnerve": {
+    "lang": {
+      "ja": "きんちょうかん"
+    }
+  },
+	"Victory Star": {
+    "lang": {
+      "ja": "しょうりのほし"
+    }
+  },
+	"Vital Spirit": {
+    "lang": {
+      "ja": "やるき"
+    }
+  },
+	"Volt Absorb": {
+    "lang": {
+      "ja": "ちくでん"
+    }
+  },
+	"Wandering Spirit": {
+    "lang": {
+      "ja": "さまようたましい"
+    }
+  },
+	"Water Absorb": {
+    "lang": {
+      "ja": "ちょすい"
+    }
+  },
+	"Water Bubble": {
+    "lang": {
+      "ja": "すいほう"
+    }
+  },
+	"Water Compaction": {
+    "lang": {
+      "ja": "みずがため"
+    }
+  },
+	"Water Veil": {
+    "lang": {
+      "ja": "みずのベール"
+    }
+  },
+	"Weak Armor": {
+    "lang": {
+      "ja": "くだけるよろい"
+    }
+  },
+	"White Smoke": {
+    "lang": {
+      "ja": "しろいけむり"
+    }
+  },
+	"Wimp Out": {
+    "lang": {
+      "ja": "にげごし"
+    }
+  },
+	"Wonder Guard": {
+    "lang": {
+      "ja": "ふしぎなまもり"
+    }
+  },
+	"Wonder Skin": {
+    "lang": {
+      "ja": "ミラクルスキン"
+    }
+  },
+	"Zen Mode": {
+    "lang": {
+      "ja": "ダルマモード"
+    }
+  }
+}
