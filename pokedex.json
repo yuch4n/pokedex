@@ -8682,6 +8682,16 @@
     },
     "type": [
       "Normal"
+    ],
+    "ability": [
+      {
+        "name": "Cheek Pouch",
+        "hidden": false
+      },
+      {
+        "name": "Gluttony",
+        "hidden": true
+      }
     ]
   },
   {
@@ -8692,6 +8702,16 @@
     },
     "type": [
       "Normal"
+    ],
+    "ability": [
+      {
+        "name": "Cheek Pouch",
+        "hidden": false
+      },
+      {
+        "name": "Gluttony",
+        "hidden": true
+      }
     ]
   },
   {
@@ -8703,6 +8723,20 @@
     "type": [
       "Flying"
     ]
+    "ability": [
+      {
+        "name": "Keen Eye",
+        "hidden": false
+      },
+      {
+        "name": "Unnerve",
+        "hidden": false
+      },
+      {
+        "name": "Big Pecks",
+        "hidden": true
+      }
+    ]
   },
   {
     "id": 822,
@@ -8712,6 +8746,20 @@
     },
     "type": [
       "Flying"
+    ],
+    "ability": [
+      {
+        "name": "Keen Eye",
+        "hidden": false
+      },
+      {
+        "name": "Unnerve",
+        "hidden": false
+      },
+      {
+        "name": "Big Pecks",
+        "hidden": true
+      }
     ]
   },
   {
@@ -8723,6 +8771,20 @@
     "type": [
       "Flying",
       "Steel"
+    ],
+    "ability": [
+      {
+        "name": "Pressure",
+        "hidden": false
+      },
+      {
+        "name": "Unnerve",
+        "hidden": false
+      },
+      {
+        "name": "Mirror Armor",
+        "hidden": true
+      }
     ]
   },
   {
