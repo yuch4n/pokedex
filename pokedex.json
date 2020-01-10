@@ -9540,6 +9540,20 @@
     },
     "type": [
       "Psychic"
+    ],
+    "ability": [
+      {
+        "name": "Healer",
+        "hidden": false
+      },
+      {
+        "name": "Anticipation",
+        "hidden": false
+      },
+      {
+        "name": "Magic Bounce",
+        "hidden": true
+      }
     ]
   },
   {
