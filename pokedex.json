@@ -8795,6 +8795,20 @@
     },
     "type": [
       "Bug"
+    ],
+    "ability": [
+      {
+        "name": "Swarm",
+        "hidden": false
+      },
+      {
+        "name": "Compound Eyes",
+        "hidden": false
+      },
+      {
+        "name": "Telepathy",
+        "hidden": true
+      }
     ]
   },
     {
@@ -8806,6 +8820,20 @@
     "type": [
       "Bug",
       "Psychic"
+    ],
+    "ability": [
+      {
+        "name": "Swarm",
+        "hidden": false
+      },
+      {
+        "name": "Compound Eyes",
+        "hidden": false
+      },
+      {
+        "name": "Telepathy",
+        "hidden": true
+      }
     ]
   },
   {
@@ -8817,6 +8845,20 @@
     "type": [
       "Bug",
       "Psychic"
+    ],
+    "ability": [
+      {
+        "name": "Swarm",
+        "hidden": false
+      },
+      {
+        "name": "Frisk",
+        "hidden": false
+      },
+      {
+        "name": "Telepathy",
+        "hidden": true
+      }
     ]
   },
   {
@@ -8827,6 +8869,20 @@
     },
     "type": [
       "Dark"
+    ],
+    "ability": [
+      {
+        "name": "Run Away",
+        "hidden": false
+      },
+      {
+        "name": "Unburden",
+        "hidden": false
+      },
+      {
+        "name": "Stakeout",
+        "hidden": true
+      }
     ]
   },
   {
@@ -8837,6 +8893,20 @@
     },
     "type": [
       "Dark"
+    ],
+    "ability": [
+      {
+        "name": "Run Away",
+        "hidden": false
+      },
+      {
+        "name": "Unburden",
+        "hidden": false
+      },
+      {
+        "name": "Stakeout",
+        "hidden": true
+      }
     ]
   },
   {
@@ -8847,6 +8917,20 @@
     },
     "type": [
       "Grass"
+    ],
+    "ability": [
+      {
+        "name": "Cotton Down",
+        "hidden": false
+      },
+      {
+        "name": "Regenerator",
+        "hidden": false
+      },
+      {
+        "name": "Effect Spore",
+        "hidden": true
+      }
     ]
   },
   {
@@ -8857,6 +8941,20 @@
     },
     "type": [
       "Grass"
+    ],
+    "ability": [
+      {
+        "name": "Cotton Down",
+        "hidden": false
+      },
+      {
+        "name": "Regenerator",
+        "hidden": false
+      },
+      {
+        "name": "Effect Spore",
+        "hidden": true
+      }
     ]
   },
   {
@@ -8867,6 +8965,20 @@
     },
     "type": [
       "Normal"
+    ],
+    "ability": [
+      {
+        "name": "Fluffy",
+        "hidden": false
+      },
+      {
+        "name": "Run Away",
+        "hidden": false
+      },
+      {
+        "name": "Bulletproof",
+        "hidden": true
+      }
     ]
   },
   {
@@ -8877,6 +8989,20 @@
     },
     "type": [
       "Normal"
+    ],
+    "ability": [
+      {
+        "name": "Fluffy",
+        "hidden": false
+      },
+      {
+        "name": "Steadfast",
+        "hidden": false
+      },
+      {
+        "name": "ぼうだん",
+        "hidden": true
+      }
     ]
   },
   {
@@ -8887,6 +9013,20 @@
     },
     "type": [
       "Water"
+    ],
+    "ability": [
+      {
+        "name": "Strong Jaw",
+        "hidden": false
+      },
+      {
+        "name": "Shell Armor",
+        "hidden": false
+      },
+      {
+        "name": "Swift Swim",
+        "hidden": true
+      }
     ]
   },
   {
@@ -8898,6 +9038,20 @@
     "type": [
       "Water",
       "Rock"
+    ],
+    "ability": [
+      {
+        "name": "Strong Jaw",
+        "hidden": false
+      },
+      {
+        "name": "Shell Armor",
+        "hidden": false
+      },
+      {
+        "name": "Swift Swim",
+        "hidden": true
+      }
     ]
   },
   {
@@ -8908,6 +9062,16 @@
     },
     "type": [
       "Electric"
+    ],
+    "ability": [
+      {
+        "name": "Ball Fetch",
+        "hidden": false
+      },
+      {
+        "name": "Rattled",
+        "hidden": true
+      }
     ]
   },
   {
@@ -8918,6 +9082,16 @@
     },
     "type": [
       "Electric"
+    ],
+    "ability": [
+      {
+        "name": "Strong Jaw",
+        "hidden": false
+      },
+      {
+        "name": "Competitive",
+        "hidden": true
+      }
     ]
   },
   {
@@ -8928,6 +9102,20 @@
     },
     "type": [
       "Rock"
+    ],
+    "ability": [
+      {
+        "name": "Steam Engine",
+        "hidden": false
+      },
+      {
+        "name": "Heatproof",
+        "hidden": false
+      },
+      {
+        "name": "Flash Fire",
+        "hidden": true
+      }
     ]
   },
   {
@@ -8939,6 +9127,20 @@
     "type": [
       "Rock",
       "Fire"
+    ],
+    "ability": [
+      {
+        "name": "Steam Engine",
+        "hidden": false
+      },
+      {
+        "name": "Flame Body",
+        "hidden": false
+      },
+      {
+        "name": "Flash Fire",
+        "hidden": true
+      }
     ]
   },
   {
@@ -8950,6 +9152,20 @@
     "type": [
       "Rock",
       "Fire"
+    ],
+    "ability": [
+      {
+        "name": "Steam Engine",
+        "hidden": false
+      },
+      {
+        "name": "Flame Body",
+        "hidden": false
+      },
+      {
+        "name": "Flash Fire",
+        "hidden": true
+      }
     ]
   },
   {
