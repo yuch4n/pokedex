@@ -9357,6 +9357,20 @@
     "type": [
       "Electric",
       "Poison"
+    ],
+    "ability": [
+      {
+        "name": "Rattled",
+        "hidden": false
+      },
+      {
+        "name": "Static",
+        "hidden": false
+      },
+      {
+        "name": "Klutz",
+        "hidden": true
+      }
     ]
   },
   {
@@ -9368,6 +9382,24 @@
     "type": [
       "Electric",
       "Poison"
+    ],
+    "ability": [
+      {
+        "name": "Punk Rock",
+        "hidden": false
+      },
+      {
+        "name": "Plus",
+        "hidden": false
+      },
+      {
+        "name": "Minus",
+        "hidden": false
+      },
+      {
+        "name": "Technician",
+        "hidden": true
+      }
     ]
   },
   {
@@ -9379,6 +9411,20 @@
     "type": [
       "Fire",
       "Bug"
+    ],
+    "ability": [
+      {
+        "name": "Flash Fire",
+        "hidden": false
+      },
+      {
+        "name": "White Smoke",
+        "hidden": false
+      },
+      {
+        "name": "Flame Body",
+        "hidden": true
+      }
     ]
   },
   {
@@ -9390,6 +9436,20 @@
     "type": [
       "Fire",
       "Bug"
+    ],
+    "ability": [
+      {
+        "name": "Flash Fire",
+        "hidden": false
+      },
+      {
+        "name": "White Smoke",
+        "hidden": false
+      },
+      {
+        "name": "Flame Body",
+        "hidden": true
+      }
     ]
   },
   {
@@ -9400,6 +9460,16 @@
     },
     "type": [
       "Fighting"
+    ],
+    "ability": [
+      {
+        "name": "Limber",
+        "hidden": false
+      },
+      {
+        "name": "Technician",
+        "hidden": true
+      }
     ]
   },
   {
@@ -9410,6 +9480,16 @@
     },
     "type": [
       "Fighting"
+    ],
+    "ability": [
+      {
+        "name": "Limber",
+        "hidden": false
+      },
+      {
+        "name": "Technician",
+        "hidden": true
+      }
     ]
   },
   {
@@ -9420,6 +9500,16 @@
     },
     "type": [
       "Ghost"
+    ],
+    "ability": [
+      {
+        "name": "Weak Armor",
+        "hidden": false
+      },
+      {
+        "name": "Cursed Body",
+        "hidden": true
+      }
     ]
   },
   {
@@ -9430,6 +9520,16 @@
     },
     "type": [
       "Ghost"
+    ],
+    "ability": [
+      {
+        "name": "Weak Armor",
+        "hidden": false
+      },
+      {
+        "name": "Cursed Body",
+        "hidden": true
+      }
     ]
   },
   {
@@ -9450,6 +9550,20 @@
     },
     "type": [
       "Psychic"
+    ],
+    "ability": [
+      {
+        "name": "Healer",
+        "hidden": false
+      },
+      {
+        "name": "Anticipation",
+        "hidden": false
+      },
+      {
+        "name": "Magic Bounce",
+        "hidden": true
+      }
     ]
   },
   {
@@ -9461,6 +9575,20 @@
     "type": [
       "Psychic",
       "Fairy"      
+    ],
+    "ability": [
+      {
+        "name": "Healer",
+        "hidden": false
+      },
+      {
+        "name": "Anticipation",
+        "hidden": false
+      },
+      {
+        "name": "Magic Bounce",
+        "hidden": true
+      }
     ]
   },
   {
@@ -9472,6 +9600,20 @@
     "type": [
       "Dark",
       "Fairy"
+    ],
+    "ability": [
+      {
+        "name": "Prankster",
+        "hidden": false
+      },
+      {
+        "name": "Frisk",
+        "hidden": false
+      },
+      {
+        "name": "Pickpocket",
+        "hidden": true
+      }
     ]
   },
   {
@@ -9483,6 +9625,20 @@
     "type": [
       "Dark",
       "Fairy"
+    ],
+    "ability": [
+      {
+        "name": "Prankster",
+        "hidden": false
+      },
+      {
+        "name": "Frisk",
+        "hidden": false
+      },
+      {
+        "name": "Pickpocket",
+        "hidden": true
+      }
     ]
   },
   {
@@ -9494,6 +9650,20 @@
     "type": [
       "Dark",
       "Fairy"
+    ],
+    "ability": [
+      {
+        "name": "Prankster",
+        "hidden": false
+      },
+      {
+        "name": "Frisk",
+        "hidden": false
+      },
+      {
+        "name": "Pickpocket",
+        "hidden": true
+      }
     ]
   },
   {
@@ -9505,6 +9675,20 @@
     "type": [
       "Dark",
       "Normal"
+    ],
+    "ability": [
+      {
+        "name": "Reckless",
+        "hidden": false
+      },
+      {
+        "name": "Guts",
+        "hidden": false
+      },
+      {
+        "name": "Defiant",
+        "hidden": true
+      }
     ]
   },
   {
@@ -9515,6 +9699,20 @@
     },
     "type": [
       "Steel"
+    ],
+    "ability": [
+      {
+        "name": "Battle Armor",
+        "hidden": false
+      },
+      {
+        "name": "Tough Claws",
+        "hidden": false
+      },
+      {
+        "name": "Steely Spirit",
+        "hidden": true
+      }
     ]
   },
   {
@@ -9525,6 +9723,16 @@
     },
     "type": [
       "Ghost"
+    ],
+    "ability": [
+      {
+        "name": "Weak Armor",
+        "hidden": false
+      },
+      {
+        "name": "Perish Body",
+        "hidden": true
+      }
     ]
   },
   {
@@ -9535,6 +9743,16 @@
     },
     "type": [
       "Fighting"
+    ],
+    "ability": [
+      {
+        "name": "Steadfast",
+        "hidden": false
+      },
+      {
+        "name": "Scrappy",
+        "hidden": true
+      }
     ]
   },
   {
@@ -9546,6 +9764,20 @@
     "type": [
       "Ice",
       "Psychic"
+    ],
+    "ability": [
+      {
+        "name": "Tangled Feet",
+        "hidden": false
+      },
+      {
+        "name": "Screen Cleaner",
+        "hidden": false
+      },
+      {
+        "name": "Ice Body",
+        "hidden": true
+      }
     ]
   },
   {
