@@ -8502,6 +8502,16 @@
     },
     "type": [
       "Grass"
+    ],
+    "ability": [
+      {
+        "name": "Overgrow",
+        "hidden": false
+      },
+      {
+        "name": "Grassy Surge",
+        "hidden": true
+      }
     ]
   },
   {
@@ -8512,6 +8522,16 @@
     },
     "type": [
       "Grass"
+    ],
+    "ability": [
+      {
+        "name": "Overgrow",
+        "hidden": false
+      },
+      {
+        "name": "Grassy Surge",
+        "hidden": true
+      }
     ]
   },
   {
@@ -8522,6 +8542,16 @@
     },
     "type": [
       "Grass"
+    ],
+    "ability": [
+      {
+        "name": "Overgrow",
+        "hidden": false
+      },
+      {
+        "name": "Grassy Surge",
+        "hidden": true
+      }
     ]
   },
   {
@@ -8532,6 +8562,16 @@
     },
     "type": [
       "Fire"
+    ],
+    "ability": [
+      {
+        "name": "Blaze",
+        "hidden": false
+      },
+      {
+        "name": "Libero",
+        "hidden": true
+      }
     ]
   },
   {
@@ -8542,6 +8582,16 @@
     },
     "type": [
       "Fire"
+    ],
+    "ability": [
+      {
+        "name": "Blaze",
+        "hidden": false
+      },
+      {
+        "name": "Libero",
+        "hidden": true
+      }
     ]
   },
   {
@@ -8552,6 +8602,16 @@
     },
     "type": [
       "Fire"
+    ],
+    "ability": [
+      {
+        "name": "Blaze",
+        "hidden": false
+      },
+      {
+        "name": "Libero",
+        "hidden": true
+      }
     ]
   },
   {
@@ -8562,6 +8622,16 @@
     },
     "type": [
       "Water"
+    ],
+    "ability": [
+      {
+        "name": "Torrent",
+        "hidden": false
+      },
+      {
+        "name": "Sniper",
+        "hidden": true
+      }
     ]
   },
   {
@@ -8572,6 +8642,16 @@
     },
     "type": [
       "Water"
+    ],
+    "ability": [
+      {
+        "name": "Torrent",
+        "hidden": false
+      },
+      {
+        "name": "Sniper",
+        "hidden": true
+      }
     ]
   },
   {
@@ -8582,6 +8662,16 @@
     },
     "type": [
       "Water"
+    ],
+    "ability": [
+      {
+        "name": "Torrent",
+        "hidden": false
+      },
+      {
+        "name": "Sniper",
+        "hidden": true
+      }
     ]
   },
   {
