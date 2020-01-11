@@ -9803,6 +9803,12 @@
     "type": [
       "Ground",
       "Ghost"
+    ],
+    "ability": [
+      {
+        "name": "Wandering Spirit",
+        "hidden": false
+      }
     ]
   },
   {
@@ -9813,6 +9819,16 @@
     },
     "type": [
       "Fairy"
+    ],
+    "ability": [
+      {
+        "name": "Sweet Veil",
+        "hidden": false
+      },
+      {
+        "name": "Aroma Veil",
+        "hidden": true
+      }
     ]
   },
   {
@@ -9823,6 +9839,16 @@
     },
     "type": [
       "Fairy"
+    ],
+    "ability": [
+      {
+        "name": "Sweet Veil",
+        "hidden": false
+      },
+      {
+        "name": "Aroma Veil",
+        "hidden": true
+      }
     ]
   },
   {
@@ -9833,6 +9859,16 @@
     },
     "type": [
       "Fighting"
+    ],
+    "ability": [
+      {
+        "name": "Battle Armor",
+        "hidden": false
+      },
+      {
+        "name": "Defiant",
+        "hidden": true
+      }
     ]
   },
   {
@@ -9843,6 +9879,16 @@
     },
     "type": [
       "Electric"
+    ],
+    "ability": [
+      {
+        "name": "Lightning Rod",
+        "hidden": false
+      },
+      {
+        "name": "Electric Surge",
+        "hidden": true
+      }
     ]
   },
   {
@@ -9854,6 +9900,16 @@
     "type": [
       "Ice",
       "Bug"
+    ],
+    "ability": [
+      {
+        "name": "Shield Dust",
+        "hidden": false
+      },
+      {
+        "name": "Ice Scales",
+        "hidden": true
+      }
     ]
   },
   {
@@ -9865,6 +9921,16 @@
     "type": [
       "Ice",
       "Bug"      
+    ],
+    "ability": [
+      {
+        "name": "Shield Dust",
+        "hidden": false
+      },
+      {
+        "name": "Ice Scales",
+        "hidden": true
+      }
     ]
   },
   {
@@ -9875,6 +9941,12 @@
     },
     "type": [
       "Rock"
+    ],
+    "ability": [
+      {
+        "name": "Power Spot",
+        "hidden": false
+      }
     ]
   },
   {
@@ -9885,6 +9957,12 @@
     },
     "type": [
       "Ice"
+    ],
+    "ability": [
+      {
+        "name": "Ice Face",
+        "hidden": false
+      }
     ]
   },
   {
@@ -9896,6 +9974,24 @@
     "type": [
       "Psychic",
       "Normal"
+    ],
+    "ability": [
+      {
+        "name": "Inner Focus",
+        "hidden": false
+      },
+      {
+        "name": "Synchronize",
+        "hidden": false
+      },
+      {
+        "name": "Own Tempo",
+        "hidden": false
+      },
+      {
+        "name": "Psychic Surge",
+        "hidden": true
+      }
     ]
   },
   {
@@ -9907,6 +10003,12 @@
     "type": [
       "Electric",
       "Dark"
+    ],
+    "ability": [
+      {
+        "name": "Hunger Switch",
+        "hidden": false
+      }
     ]
   },
   {
@@ -9917,6 +10019,16 @@
     },
     "type": [
       "Steel"
+    ],
+    "ability": [
+      {
+        "name": "Sheer Force",
+        "hidden": false
+      },
+      {
+        "name": "Heavy Metal",
+        "hidden": true
+      }
     ]
   },
   {
@@ -9927,6 +10039,16 @@
     },
     "type": [
       "Steel"
+    ],
+    "ability": [
+      {
+        "name": "Sheer Force",
+        "hidden": false
+      },
+      {
+        "name": "Heavy Metal",
+        "hidden": true
+      }
     ]
   },
   {
@@ -9938,6 +10060,20 @@
     "type": [
       "Electric",
       "Dragon"
+    ],
+    "ability": [
+      {
+        "name": "Volt Absorb",
+        "hidden": false
+      },
+      {
+        "name": "Hustle",
+        "hidden": false
+      },
+      {
+        "name": "Sand Rush",
+        "hidden": true
+      }
     ]
   },
   {
@@ -9949,6 +10085,20 @@
     "type": [
       "Electric",
       "Ice"
+    ],
+    "ability": [
+      {
+        "name": "Volt Absorb",
+        "hidden": false
+      },
+      {
+        "name": "Static",
+        "hidden": false
+      },
+      {
+        "name": "Slush Rush",
+        "hidden": true
+      }
     ]
   },
   {
@@ -9960,6 +10110,20 @@
     "type": [
       "Water",
       "Dragon"
+    ],
+    "ability": [
+      {
+        "name": "Water Absorb",
+        "hidden": false
+      },
+      {
+        "name": "Strong Jaw",
+        "hidden": false
+      },
+      {
+        "name": "Sand Rush",
+        "hidden": true
+      }
     ]
   },
   {
@@ -9971,6 +10135,20 @@
     "type": [
       "Water",
       "Ice"
+    ],
+    "ability": [
+      {
+        "name": "Water Absorb",
+        "hidden": false
+      },
+      {
+        "name": "Ice Body",
+        "hidden": false
+      },
+      {
+        "name": "Slush Rush",
+        "hidden": true
+      }
     ]
   },
   {
@@ -9982,6 +10160,20 @@
     "type": [
       "Steel",
       "Dragon"
+    ],
+    "ability": [
+      {
+        "name": "Light Metal",
+        "hidden": false
+      },
+      {
+        "name": "Heavy Metal",
+        "hidden": false
+      },
+      {
+        "name": "Stalwart",
+        "hidden": true
+      }
     ]
   },
   {
@@ -9993,6 +10185,20 @@
     "type": [
       "Dragon",
       "Ghost"
+    ],
+    "ability": [
+      {
+        "name": "Clear Body",
+        "hidden": false
+      },
+      {
+        "name": "Infiltrator",
+        "hidden": false
+      },
+      {
+        "name": "Cursed Body",
+        "hidden": true
+      }
     ]
   },
   {
@@ -10004,6 +10210,20 @@
     "type": [
       "Dragon",
       "Ghost"
+    ],
+    "ability": [
+      {
+        "name": "Clear Body",
+        "hidden": false
+      },
+      {
+        "name": "Infiltrator",
+        "hidden": false
+      },
+      {
+        "name": "Cursed Body",
+        "hidden": true
+      }
     ]
   },
   {
@@ -10015,6 +10235,20 @@
     "type": [
       "Dragon",
       "Ghost"
+    ],
+    "ability": [
+      {
+        "name": "Clear Body",
+        "hidden": false
+      },
+      {
+        "name": "Infiltrator",
+        "hidden": false
+      },
+      {
+        "name": "Cursed Body",
+        "hidden": true
+      }
     ]
   },
   {
@@ -10025,6 +10259,12 @@
     },
     "type": [
       "Fairy"
+    ],
+    "ability": [
+      {
+        "name": "Intrepid Sword",
+        "hidden": false
+      }
     ]
   },
   {
@@ -10035,6 +10275,12 @@
     },
     "type": [
       "Fighting"
+    ],
+    "ability": [
+      {
+        "name": "Dauntless Shield",
+        "hidden": false
+      }
     ]
   },
   {
@@ -10046,6 +10292,12 @@
     "type": [
       "Poison",
       "Dragon"
+    ],
+    "ability": [
+      {
+        "name": "Pressure",
+        "hidden": false
+      }
     ]
   }
 ]
