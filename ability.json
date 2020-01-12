@@ -223,11 +223,17 @@
   "Contrary": {
     "name": {
       "ja": "あまのじゃく"
+    },
+    "flavor_text": {
+      "ja": "能力の　変化が　逆転して 上がるときに　下がり 下がるときに　上がる。"
     }
   },
   "Corrosion": {
     "name": {
       "ja": "ふしょく"
+    },
+    "flavor_text": {
+      "ja": "はがねタイプや　どくタイプも どく状態に　することが　できる。"
     }
   },
   "Cotton Down": {
@@ -246,21 +252,33 @@
   "Cute Charm": {
     "name": {
       "ja": "メロメロボディ"
+    },
+    "flavor_text": {
+      "ja": "自分に　触った　相手を メロメロに　することが　ある。"
     }
   },
   "Damp": {
     "name": {
       "ja": "しめりけ"
+    },
+    "flavor_text": {
+      "ja": "あたりを　湿らせることに　よって じばく　などの　爆発する　技を だれも　使えなくなる。"
     }
   },
   "Dancer": {
     "name": {
       "ja": "おどりこ"
+    },
+    "flavor_text": {
+      "ja": "だれかが　踊り技を　使うと 自分も　それに　続いて 踊り技を　出すことが　できる。"
     }
   },
   "Dark Aura": {
     "name": {
       "ja": "ダークオーラ"
+    },
+    "flavor_text": {
+      "ja": "全員の　あくタイプの 技が　強くなる。"
     }
   },
   "Dauntless Shield": {
@@ -271,56 +289,89 @@
   "Dazzling": {
     "name": {
       "ja": "ビビッドボディ"
+    },
+    "flavor_text": {
+      "ja": "相手を　びっくり　させて こちらに　むかって　先制技を 出せない　ようにする。"
     }
   },
   "Defeatist": {
     "name": {
       "ja": "よわき"
+    },
+    "flavor_text": {
+      "ja": "ＨＰが　半分に　なると 弱気に　なって　攻撃と 特攻が　半減する。"
     }
   },
   "Defiant": {
     "name": {
       "ja": "まけんき"
+    },
+    "flavor_text": {
+      "ja": "能力を　下げられると 攻撃が　ぐーんと　上がる。"
     }
   },
   "Delta Stream": {
     "name": {
       "ja": "デルタストリーム"
+    },
+    "flavor_text": {
+      "ja": "ひこうタイプの　弱点が なくなる　天気にする。"
     }
   },
   "Desolate Land": {
     "name": {
       "ja": "おわりのだいち"
+    },
+    "flavor_text": {
+      "ja": "みずタイプの　攻撃を 受けない　天気にする。"
     }
   },
   "Disguise": {
     "name": {
       "ja": "ばけのかわ"
+    },
+    "flavor_text": {
+      "ja": "体を　被う　化けの皮で　１回　攻撃を　防ぐことが　できる。"
     }
   },
   "Download": {
     "name": {
       "ja": "ダウンロード"
+    },
+    "flavor_text": {
+      "ja": "相手の　防御と　特防を　くらべて 低い　ほうの　能力に　あわせて 自分の　攻撃か　特攻を　上げる。"
     }
   },
   "Drizzle": {
     "name": {
       "ja": "あめふらし"
+    },
+    "flavor_text": {
+      "ja": "登場　したときに 天気を　雨に　する。"
     }
   },
   "Drought": {
     "name": {
       "ja": "ひでり"
+    },
+    "flavor_text": {
+      "ja": "登場　したときに 天気を　晴れに　する。"
     }
   },
   "Dry Skin": {
     "name": {
       "ja": "かんそうはだ"
+    },
+    "flavor_text": {
+      "ja": "天気が　雨の時や　みずタイプの 技で　ＨＰが　回復し　はれの時や ほのおタイプの　技で　減ってしまう。"
     }
   },
   "Early Bird": {
     "name": {
       "ja": "はやおき"
+    },
+    "flavor_text": {
+      "ja": "ねむり状態に　なっても ２倍の　早さで 目覚める　ことが　できる。"
     }
   },
   "Effect Spore": {
@@ -334,11 +385,17 @@
   "Electric Surge": {
     "name": {
       "ja": "エレキメイカー"
+    },
+    "flavor_text": {
+      "ja": "登場　したときに エレキフィールドを　はりめぐらせる。"
     }
   },
   "Emergency Exit": {
     "name": {
       "ja": "ききかいひ"
+    },
+    "flavor_text": {
+      "ja": "ＨＰが　半分に　なると 危険を　回避するため 手持ちに　引っ込んで　しまう。"
     }
   },
   "Fairy Aura": {
