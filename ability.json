@@ -2,6 +2,9 @@
   "Adaptability": {
     "name": {
       "ja": "てきおうりょく"
+    },
+    "flavor_text": {
+      "ja": "自分と　おなじ　タイプの 技の　威力が　上がる。"
     }
   },
   "Aerilate": {
@@ -32,6 +35,9 @@
   "Anticipation": {
     "name": {
       "ja": "きけんよち"
+    },
+    "flavor_text": {
+      "ja": "相手の　持つ　危険な　技を 察知する　ことができる。"
     }
   },
   "Arena Trap": {
@@ -67,6 +73,9 @@
   "Battle Armor": {
     "name": {
       "ja": "カブトアーマー"
+    },
+    "flavor_text": {
+      "ja": "硬い　甲羅に　守られて 相手の　攻撃が 急所に　当たらない。"
     }
   },
   "Battle Bond": {
@@ -92,6 +101,9 @@
   "Blaze": {
     "name": {
       "ja": "もうか"
+    },
+    "flavor_text": {
+      "ja": "ＨＰが　減ったとき ほのおタイプの　技の 威力が　上がる。"
     }
   },
   "Bulletproof": {
@@ -157,6 +169,9 @@
   "Cursed Body": {
     "name": {
       "ja": "のろわれボディ"
+    },
+    "flavor_text": {
+      "ja": "攻撃を　受けると　相手の　技を かなしばり状態に することが　ある。"
     }
   },
   "Cute Charm": {
@@ -357,6 +372,9 @@
   "Grassy Surge": {
     "name": {
       "ja": "グラスメイカー"
+    },
+    "flavor_text": {
+      "ja": "登場　したときに グラスフィールドを　はりめぐらせる。"
     }
   },
   "Gulp Missile": {
@@ -377,16 +395,25 @@
   "Healer": {
     "name": {
       "ja": "いやしのこころ"
+    },
+    "flavor_text": {
+      "ja": "状態異常の　味方を たまに　治してあげる。"
     }
   },
   "Heatproof": {
     "name": {
       "ja": "たいねつ"
+    },
+    "flavor_text": {
+      "ja": "耐熱の　体に　よって ほのおタイプの　技の 威力を　半減させる。"
     }
   },
   "Heavy Metal": {
     "name": {
       "ja": "ヘヴィメタル"
+    },
+    "flavor_text": {
+      "ja": "自分の　重さが ２倍に　なる。"
     }
   },
   "Honey Gather": {
@@ -407,6 +434,9 @@
   "Hustle": {
     "name": {
       "ja": "はりきり"
+    },
+    "flavor_text": {
+      "ja": "自分の　攻撃が　高くなるが 命中率が　下がる。"
     }
   },
   "Hydration": {
@@ -422,6 +452,9 @@
   "Ice Body": {
     "name": {
       "ja": "アイスボディ"
+    },
+    "flavor_text": {
+      "ja": "天気が　あられのとき　ＨＰを 少しずつ　回復　する。"
     }
   },
   "Ice Face": {
@@ -517,6 +550,9 @@
   "Levitate": {
     "name": {
       "ja": "ふゆう"
+    },
+    "flavor_text": {
+      "ja": "地面から　浮くことによって じめんタイプの　技を　受けない。"
     }
   },
   "Libero": {
@@ -527,16 +563,25 @@
   "Light Metal": {
     "name": {
       "ja": "ライトメタル"
+    },
+    "flavor_text": {
+      "ja": "自分の　重さが 半分に　なる。"
     }
   },
   "Lightning Rod": {
     "name": {
       "ja": "ひらいしん"
+    },
+    "flavor_text": {
+      "ja": "でんきタイプの　技を　自分に 寄せつけ　ダメージを　受けずに 特攻が　上がる。"
     }
   },
   "Limber": {
     "name": {
       "ja": "じゅうなん"
+    },
+    "flavor_text": {
+      "ja": "柔軟な　体によって まひ状態に　ならない。"
     }
   },
   "Liquid Ooze": {
@@ -557,6 +602,9 @@
   "Magic Bounce": {
     "name": {
       "ja": "マジックミラー"
+    },
+    "flavor_text": {
+      "ja": "相手に　だされた　変化技を　受けずに そのまま　返す　ことが　できる。"
     }
   },
   "Magic Guard": {
@@ -687,6 +735,9 @@
   "Overgrow": {
     "name": {
       "ja": "しんりょく"
+    },
+    "flavor_text": {
+      "ja": "ＨＰが　減ったとき くさタイプの　技の 威力が　上がる。"
     }
   },
   "Own Tempo": {
@@ -717,6 +768,9 @@
   "Pickup": {
     "name": {
       "ja": "ものひろい"
+    },
+    "flavor_text": {
+      "ja": "相手の　使った　道具を 拾ってくることが　ある。 冒険中も　拾ってくる。"
     }
   },
   "Pixilate": {
@@ -942,16 +996,25 @@
   "Sheer Force": {
     "name": {
       "ja": "ちからずく"
+    },
+    "flavor_text": {
+      "ja": "技の　追加効果は　なくなるが そのぶん　高い　威力で 技を　出すことが　できる。"
     }
   },
   "Shell Armor": {
     "name": {
       "ja": "シェルアーマー"
+    },
+    "flavor_text": {
+      "ja": "硬い　殻に　守られ 相手の　攻撃が 急所に　当たらない。"
     }
   },
   "Shield Dust": {
     "name": {
       "ja": "りんぷん"
+    },
+    "flavor_text": {
+      "ja": "りんぷんに　守られて 技の　追加効果を　受けなくなる。"
     }
   },
   "Shields Down": {
@@ -982,6 +1045,9 @@
   "Sniper": {
     "name": {
       "ja": "スナイパー"
+    },
+    "flavor_text": {
+      "ja": "攻撃を　急所に　当てると 威力が　さらに　上がる。"
     }
   },
   "Snow Cloak": {
@@ -1022,6 +1088,9 @@
   "Stakeout": {
     "name": {
       "ja": "はりこみ"
+    },
+    "flavor_text": {
+      "ja": "交代で　出てきた　相手に ２倍の　ダメージで　攻撃　できる。"
     }
   },
   "Stall": {
@@ -1047,11 +1116,17 @@
   "Static": {
     "name": {
       "ja": "せいでんき"
+    },
+    "flavor_text": {
+      "ja": "静電気を　体に　まとい 触った　相手を まひさせる　ことがある。"
     }
   },
   "Steadfast": {
     "name": {
       "ja": "ふくつのこころ"
+    },
+    "flavor_text": {
+      "ja": "ひるむ　たびに 不屈の心を　燃やして 素早さが　上がる。"
     }
   },
   "Steam Engine": {
@@ -1087,6 +1162,9 @@
   "Strong Jaw": {
     "name": {
       "ja": "がんじょうあご"
+    },
+    "flavor_text": {
+      "ja": "あごが　頑丈で 噛む　技の　威力が 高くなる。"
     }
   },
   "Sturdy": {
@@ -1122,6 +1200,9 @@
   "Swift Swim": {
     "name": {
       "ja": "すいすい"
+    },
+    "flavor_text": {
+      "ja": "天気が　雨のとき 素早さが　上がる。"
     }
   },
   "Symbiosis": {
@@ -1147,6 +1228,9 @@
   "Technician": {
     "name": {
       "ja": "テクニシャン"
+    },
+    "flavor_text": {
+      "ja": "威力が　低い　技の 威力を　高くして　攻撃できる。"
     }
   },
   "Telepathy": {
