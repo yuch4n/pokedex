@@ -10,26 +10,41 @@
   "Aerilate": {
     "name": {
       "ja": "スカイスキン"
+    },
+    "flavor_text": {
+      "ja": "ノーマルタイプの　技が ひこうタイプになる。 威力が　少し　上がる。"
     }
   },
   "Aftermath": {
     "name": {
       "ja": "ゆうばく"
+    },
+    "flavor_text": {
+      "ja": "ひんしに　なったとき 触った　相手に ダメージを　あたえる。"
     }
   },
   "Air Lock": {
     "name": {
       "ja": "エアロック"
+    },
+    "flavor_text": {
+      "ja": "あらゆる　天気の　影響が 消えて　しまう。"
     }
   },
   "Analytic": {
     "name": {
       "ja": "アナライズ"
+    },
+    "flavor_text": {
+      "ja": "いちばん　最後に　技を　出すと 技の　威力が　上がる。"
     }
   },
   "Anger Point": {
     "name": {
       "ja": "いかりのつぼ"
+    },
+    "flavor_text": {
+      "ja": "急所に　攻撃が　当たると 怒りくるって　攻撃力が 最大に　なる。"
     }
   },
   "Anticipation": {
@@ -43,21 +58,33 @@
   "Arena Trap": {
     "name": {
       "ja": "ありじごく"
+    },
+    "flavor_text": {
+      "ja": "戦闘で　相手を 逃げられなくする。"
     }
   },
   "Aroma Veil": {
     "name": {
       "ja": "アロマベール"
+    },
+    "flavor_text": {
+      "ja": "自分と　味方への　メンタル 攻撃を　防ぐことが　できる。"
     }
   },
   "Aura Break": {
     "name": {
       "ja": "オーラブレイク"
+    },
+    "flavor_text": {
+      "ja": "オーラの　効果を　逆転させて 威力を　下げる。"
     }
   },
   "Bad Dreams": {
     "name": {
       "ja": "ナイトメア"
+    },
+    "flavor_text": {
+      "ja": "ねむり状態の　相手に ダメージを　あたえる。"
     }
   },
   "Ball Fetch": {
@@ -68,6 +95,9 @@
   "Battery": {
     "name": {
       "ja": "バッテリー"
+    },
+    "flavor_text": {
+      "ja": "味方の　特殊技の 威力を　上げる。"
     }
   },
   "Battle Armor": {
@@ -81,21 +111,33 @@
   "Battle Bond": {
     "name": {
       "ja": "きずなへんげ"
+    },
+    "flavor_text": {
+      "ja": "相手を　倒すと　トレーナーとの キズナが　深まり　サトシゲッコウガに 変化する。みずしゅりけんが　強くなる。"
     }
   },
   "Beast Boost": {
     "name": {
       "ja": "ビーストブースト"
+    },
+    "flavor_text": {
+      "ja": "相手を　倒したとき 自分の　いちばん　高い 能力が　上がる。"
     }
   },
   "Berserk": {
     "name": {
       "ja": "ぎゃくじょう"
+    },
+    "flavor_text": {
+      "ja": "相手の　攻撃で ＨＰが　半分に　なると 特攻が　上がる。"
     }
   },
   "Big Pecks": {
     "name": {
       "ja": "はとむね"
+    },
+    "flavor_text": {
+      "ja": "防御を　下げる 効果を　受けない。"
     }
   },
   "Blaze": {
@@ -109,46 +151,73 @@
   "Bulletproof": {
     "name": {
       "ja": "ぼうだん"
+    },
+    "flavor_text": {
+      "ja": "相手の　弾や　爆弾などの 技を　防ぐことが　できる。"
     }
   },
   "Cheek Pouch": {
     "name": {
       "ja": "ほおぶくろ"
+    },
+    "flavor_text": {
+      "ja": "どんな　きのみでも 食べると　ＨＰも　回復する。"
     }
   },
   "Chlorophyll": {
     "name": {
       "ja": "ようりょくそ"
+    },
+    "flavor_text": {
+      "ja": "天気が　晴れのとき 素早さが　上がる。"
     }
   },
   "Clear Body": {
     "name": {
       "ja": "クリアボディ"
+    },
+    "flavor_text": {
+      "ja": "相手の　技や　特性で 能力を　下げられない。"
     }
   },
   "Cloud Nine": {
     "name": {
       "ja": "ノーてんき"
+    },
+    "flavor_text": {
+      "ja": "あらゆる　天気の　影響が なくなって　しまう。"
     }
   },
   "Color Change": {
     "name": {
       "ja": "へんしょく"
+    },
+    "flavor_text": {
+      "ja": "相手から　受けた　技の　タイプに 自分の　タイプが　変化　する。"
     }
   },
   "Comatose": {
     "name": {
       "ja": "ぜったいねむり"
+    },
+    "flavor_text": {
+      "ja": "つねに　夢うつつの　状態で 絶対に　目覚めない。 眠ったまま　攻撃が　できる。"
     }
   },
   "Competitive": {
     "name": {
       "ja": "かちき"
+    },
+    "flavor_text": {
+      "ja": "能力を　下げられると 特攻が　ぐーんと　上がる。"
     }
   },
   "Compound Eyes": {
     "name": {
       "ja": "ふくがん"
+    },
+    "flavor_text": {
+      "ja": "複眼を　持っているため 技の　命中率が　上がる。"
     }
   },
   "Contrary": {
@@ -257,6 +326,9 @@
   "Effect Spore": {
     "name": {
       "ja": "ほうし"
+    },
+    "flavor_text": {
+      "ja": "攻撃で　自分に　触れた　相手を どくや　まひや　ねむり状態に する　ことがある。"
     }
   },
   "Electric Surge": {
@@ -282,6 +354,9 @@
   "Flame Body": {
     "name": {
       "ja": "ほのおのからだ"
+    },
+    "flavor_text": {
+      "ja": "自分に　触った　相手を やけど状態に　する　ことがある。"
     }
   },
   "Flare Boost": {
@@ -292,6 +367,9 @@
   "Flash Fire": {
     "name": {
       "ja": "もらいび"
+    },
+    "flavor_text": {
+      "ja": "ほのおタイプの　技を　受けると 炎を　もらい　自分が　出す ほのおタイプの　技が　強くなる。"
     }
   },
   "Flower Gift": {
@@ -352,6 +430,9 @@
   "Gluttony": {
     "name": {
       "ja": "くいしんぼう"
+    },
+    "flavor_text": {
+      "ja": "ＨＰが　少なくなったら　食べる きのみを　ＨＰ　半分の 時に　食べてしまう。"
     }
   },
   "Gooey": {
@@ -821,6 +902,9 @@
   "Pressure": {
     "name": {
       "ja": "プレッシャー"
+    },
+    "flavor_text": {
+      "ja": "プレッシャーを　あたえて 相手の　使う　技の　ＰＰを 多く　減らす。"
     }
   },
   "Primordial Sea": {
@@ -876,6 +960,9 @@
   "Rattled": {
     "name": {
       "ja": "びびり"
+    },
+    "flavor_text": {
+      "ja": "あくタイプと　ゴーストタイプと むしタイプの　技を　受けると びびって　素早さが　上がる。"
     }
   },
   "Receiver": {
@@ -886,6 +973,9 @@
   "Reckless": {
     "name": {
       "ja": "すてみ"
+    },
+    "flavor_text": {
+      "ja": "反動で　ダメージを 受ける　技の　威力が　上がる。"
     }
   },
   "Refrigerate": {
@@ -896,6 +986,9 @@
   "Regenerator": {
     "name": {
       "ja": "さいせいりょく"
+    },
+    "flavor_text": {
+      "ja": "手持ちに　引っ込むと ＨＰが　少し　回復する。"
     }
   },
   "Ripen": {
@@ -966,6 +1059,9 @@
   "Scrappy": {
     "name": {
       "ja": "きもったま"
+    },
+    "flavor_text": {
+      "ja": "ゴーストタイプの　ポケモンに ノーマルタイプと　かくとうタイプの 技を　当てることが　できる。"
     }
   },
   "Screen Cleaner": {
@@ -1083,6 +1179,9 @@
   "Speed Boost": {
     "name": {
       "ja": "かそく"
+    },
+    "flavor_text": {
+      "ja": "毎ターン　素早さが　上がる。"
     }
   },
   "Stakeout": {
@@ -1147,11 +1246,17 @@
   "Stench": {
     "name": {
       "ja": "あくしゅう"
+    },
+    "flavor_text": {
+      "ja": "臭い　においを　放つことによって 攻撃した　ときに　相手を ひるませることが　ある。"
     }
   },
   "Sticky Hold": {
     "name": {
       "ja": "ねんちゃく"
+    },
+    "flavor_text": {
+      "ja": "粘着質の　体に 道具が　くっついているため 相手に　道具を　奪われない。"
     }
   },
   "Storm Drain": {
@@ -1170,6 +1275,9 @@
   "Sturdy": {
     "name": {
       "ja": "がんじょう"
+    },
+    "flavor_text": {
+      "ja": "相手の　技を　受けても 一撃で　倒されることが　ない。 一撃必殺技も　効かない。"
     }
   },
   "Suction Cups": {
@@ -1190,6 +1298,9 @@
   "Swarm": {
     "name": {
       "ja": "むしのしらせ"
+    },
+    "flavor_text": {
+      "ja": "ＨＰが　減ったとき むしタイプの　技の 威力が　上がる。"
     }
   },
   "Sweet Veil": {
@@ -1213,16 +1324,25 @@
   "Synchronize": {
     "name": {
       "ja": "シンクロ"
+    },
+    "flavor_text": {
+      "ja": "自分が　なってしまった どくや　まひや　やけどを 相手に　うつす。"
     }
   },
   "Tangled Feet": {
     "name": {
       "ja": "ちどりあし"
+    },
+    "flavor_text": {
+      "ja": "こんらん状態の　ときは 回避率が　アップする。"
     }
   },
   "Tangling Hair": {
     "name": {
       "ja": "カーリーヘアー"
+    },
+    "flavor_text": {
+      "ja": "攻撃で　自分に　触れた　相手の 素早さを　下げる。"
     }
   },
   "Technician": {
@@ -1236,11 +1356,17 @@
   "Telepathy": {
     "name": {
       "ja": "テレパシー"
+    },
+    "flavor_text": {
+      "ja": "味方の　攻撃を　読み取って 技を　回避する。"
     }
   },
   "Teravolt": {
     "name": {
       "ja": "テラボルテージ"
+    },
+    "flavor_text": {
+      "ja": "相手の　特性に　ジャマされず 相手に　技を　出すことが　できる。"
     }
   },
   "Thick Fat": {
@@ -1259,11 +1385,17 @@
   "Torrent": {
     "name": {
       "ja": "げきりゅう"
+    },
+    "flavor_text": {
+      "ja": "ＨＰが　減ったとき みずタイプの　技の 威力が　上がる。"
     }
   },
   "Tough Claws": {
     "name": {
       "ja": "かたいツメ"
+    },
+    "flavor_text": {
+      "ja": "相手に　接触する　技の 威力が　高くなる。"
     }
   },
   "Toxic Boost": {
@@ -1304,6 +1436,9 @@
   "Unnerve": {
     "name": {
       "ja": "きんちょうかん"
+    },
+    "flavor_text": {
+      "ja": "相手を　緊張させて きのみを　食べられなく　させる。"
     }
   },
   "Victory Star": {
@@ -1319,6 +1454,9 @@
   "Volt Absorb": {
     "name": {
       "ja": "ちくでん"
+    },
+    "flavor_text": {
+      "ja": "でんきタイプの　技を　受けると ダメージを　受けずに　回復する。"
     }
   },
   "Wandering Spirit": {
@@ -1329,6 +1467,9 @@
   "Water Absorb": {
     "name": {
       "ja": "ちょすい"
+    },
+    "flavor_text": {
+      "ja": "みずタイプの　技を　受けると ダメージを　受けずに　回復する。"
     }
   },
   "Water Bubble": {
@@ -1354,11 +1495,17 @@
   "White Smoke": {
     "name": {
       "ja": "しろいけむり"
+    },
+    "flavor_text": {
+      "ja": "白い煙に　守られて 相手に　能力を　下げられない。"
     }
   },
   "Wimp Out": {
     "name": {
       "ja": "にげごし"
+    },
+    "flavor_text": {
+      "ja": "ＨＰが　半分に　なると あわてて　逃げ出して 手持ちに　引っ込んで　しまう。"
     }
   },
   "Wonder Guard": {
