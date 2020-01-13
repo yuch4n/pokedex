@@ -8,6 +8,16 @@
     "type": [
       "Grass",
       "Poison"
+    ],
+    [
+      {
+        "name": "Overgrow",
+        "hidden": false
+      },
+      {
+        "name": "Chlorophyll",
+        "hidden": true
+      }
     ]
   },
   {
@@ -19,6 +29,16 @@
     "type": [
       "Grass",
       "Poison"
+    ],
+    [
+      {
+        "name": "Overgrow",
+        "hidden": false
+      },
+      {
+        "name": "Chlorophyll",
+        "hidden": true
+      }
     ]
   },
   {
@@ -30,6 +50,16 @@
     "type": [
       "Grass",
       "Poison"
+    ],
+    [
+      {
+        "name": "Chlorophyll",
+        "hidden": true
+      },
+      {
+        "name": "Overgrow",
+        "hidden": false
+      }
     ]
   },
   {
