@@ -53,12 +53,12 @@
     ],
     "ability": [
       {
-        "name": "Chlorophyll",
-        "hidden": true
-      },
-      {
         "name": "Overgrow",
         "hidden": false
+      },
+      {
+        "name": "Chlorophyll",
+        "hidden": true
       }
     ]
   },
@@ -70,6 +70,16 @@
     },
     "type": [
       "Fire"
+    ],
+    "ability": [
+      {
+        "name": "Blaze",
+        "hidden": false
+      },
+      {
+        "name": "Solar Power",
+        "hidden": true
+      }
     ]
   },
   {
@@ -80,6 +90,16 @@
     },
     "type": [
       "Fire"
+    ],
+    "ability": [
+      {
+        "name": "Blaze",
+        "hidden": false
+      },
+      {
+        "name": "Solar Power",
+        "hidden": true
+      }
     ]
   },
   {
@@ -91,6 +111,16 @@
     "type": [
       "Fire",
       "Flying"
+    ],
+    "ability": [
+      {
+        "name": "Blaze",
+        "hidden": false
+      },
+      {
+        "name": "Solar Power",
+        "hidden": true
+      }
     ]
   },
   {
@@ -101,6 +131,16 @@
     },
     "type": [
       "Water"
+    ],
+    "ability": [
+      {
+        "name": "Torrent",
+        "hidden": false
+      },
+      {
+        "name": "Rain Dish",
+        "hidden": true
+      }
     ]
   },
   {
@@ -111,6 +151,16 @@
     },
     "type": [
       "Water"
+    ],
+    "ability": [
+      {
+        "name": "Torrent",
+        "hidden": false
+      },
+      {
+        "name": "Rain Dish",
+        "hidden": true
+      }
     ]
   },
   {
@@ -121,6 +171,16 @@
     },
     "type": [
       "Water"
+    ],
+    "ability": [
+      {
+        "name": "Torrent",
+        "hidden": false
+      },
+      {
+        "name": "Rain Dish",
+        "hidden": true
+      }
     ]
   },
   {
