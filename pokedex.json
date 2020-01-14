@@ -191,6 +191,16 @@
     },
     "type": [
       "Bug"
+    ],
+    "ability": [
+      {
+        "name": "Shield Dust",
+        "hidden": false
+      },
+      {
+        "name": "Run Away",
+        "hidden": true
+      }
     ]
   },
   {
@@ -201,6 +211,12 @@
     },
     "type": [
       "Bug"
+    ],
+    "ability": [
+      {
+        "name": "Shed Skin",
+        "hidden": false
+      }
     ]
   },
   {
@@ -212,6 +228,16 @@
     "type": [
       "Bug",
       "Flying"
+    ],
+    "ability": [
+      {
+        "name": "Compound Eyes",
+        "hidden": false
+      },
+      {
+        "name": "Tinted Lens",
+        "hidden": true
+      }
     ]
   },
   {
@@ -223,6 +249,16 @@
     "type": [
       "Bug",
       "Poison"
+    ],
+    "ability": [
+      {
+        "name": "Shield Dust",
+        "hidden": false
+      },
+      {
+        "name": "Run Away",
+        "hidden": true
+      }
     ]
   },
   {
@@ -234,6 +270,12 @@
     "type": [
       "Bug",
       "Poison"
+    ],
+    "ability": [
+      {
+        "name": "Shed Skin",
+        "hidden": false
+      }
     ]
   },
   {
@@ -245,6 +287,16 @@
     "type": [
       "Bug",
       "Poison"
+    ],
+    "ability": [
+      {
+        "name": "Swarm",
+        "hidden": false
+      },
+      {
+        "name": "Sniper",
+        "hidden": true
+      }
     ]
   },
   {
