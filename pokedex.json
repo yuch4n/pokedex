@@ -308,6 +308,20 @@
     "type": [
       "Normal",
       "Flying"
+    ],
+    "ability": [
+      {
+        "name": "Tangled Feet",
+        "hidden": false
+      },
+      {
+        "name": "Keen Eye",
+        "hidden": false
+      },
+      {
+        "name": "Big Pecks",
+        "hidden": true
+      }
     ]
   },
   {
@@ -319,6 +333,20 @@
     "type": [
       "Normal",
       "Flying"
+    ],
+    "ability": [
+      {
+        "name": "Tangled Feet",
+        "hidden": false
+      },
+      {
+        "name": "Keen Eye",
+        "hidden": false
+      },
+      {
+        "name": "Big Pecks",
+        "hidden": true
+      }
     ]
   },
   {
@@ -330,6 +358,20 @@
     "type": [
       "Normal",
       "Flying"
+    ],
+    "ability": [
+      {
+        "name": "Tangled Feet",
+        "hidden": false
+      },
+      {
+        "name": "Keen Eye",
+        "hidden": false
+      },
+      {
+        "name": "Big Pecks",
+        "hidden": true
+      }
     ]
   },
   {
@@ -340,6 +382,20 @@
     },
     "type": [
       "Normal"
+    ],
+    "ability": [
+      {
+        "name": "Guts",
+        "hidden": false
+      },
+      {
+        "name": "Run Away",
+        "hidden": false
+      },
+      {
+        "name": "Hustle",
+        "hidden": true
+      }
     ]
   },
   {
@@ -350,6 +406,20 @@
     },
     "type": [
       "Normal"
+    ],
+    "ability": [
+      {
+        "name": "Guts",
+        "hidden": false
+      },
+      {
+        "name": "Run Away",
+        "hidden": false
+      },
+      {
+        "name": "Hustle",
+        "hidden": true
+      }
     ]
   },
   {
@@ -361,6 +431,16 @@
     "type": [
       "Normal",
       "Flying"
+    ],
+    "ability": [
+      {
+        "name": "Keen Eye",
+        "hidden": false
+      },
+      {
+        "name": "Sniper",
+        "hidden": true
+      }
     ]
   },
   {
@@ -372,6 +452,16 @@
     "type": [
       "Normal",
       "Flying"
+    ],
+    "ability": [
+      {
+        "name": "Keen Eye",
+        "hidden": false
+      },
+      {
+        "name": "Sniper",
+        "hidden": true
+      }
     ]
   },
   {
@@ -382,6 +472,20 @@
     },
     "type": [
       "Poison"
+    ],
+    "ability": [
+      {
+        "name": "Shed Skin",
+        "hidden": false
+      },
+      {
+        "name": "Intimidate",
+        "hidden": false
+      },
+      {
+        "name": "Unnerve",
+        "hidden": true
+      }
     ]
   },
   {
@@ -392,6 +496,20 @@
     },
     "type": [
       "Poison"
+    ],
+    "ability": [
+      {
+        "name": "Shed Skin",
+        "hidden": false
+      },
+      {
+        "name": "Intimidate",
+        "hidden": false
+      },
+      {
+        "name": "Unnerve",
+        "hidden": true
+      }
     ]
   },
   {
@@ -402,6 +520,16 @@
     },
     "type": [
       "Electric"
+    ],
+    "ability": [
+      {
+        "name": "Static",
+        "hidden": false
+      },
+      {
+        "name": "Lightning Rod",
+        "hidden": true
+      }
     ]
   },
   {
@@ -412,6 +540,16 @@
     },
     "type": [
       "Electric"
+    ],
+    "ability": [
+      {
+        "name": "Static",
+        "hidden": false
+      },
+      {
+        "name": "Lightning Rod",
+        "hidden": true
+      }
     ]
   },
   {
@@ -422,6 +560,16 @@
     },
     "type": [
       "Ground"
+    ],
+    "ability": [
+      {
+        "name": "Sand Veil",
+        "hidden": false
+      },
+      {
+        "name": "Sand Rush",
+        "hidden": true
+      }
     ]
   },
   {
@@ -432,6 +580,16 @@
     },
     "type": [
       "Ground"
+    ],
+    "ability": [
+      {
+        "name": "Sand Veil",
+        "hidden": false
+      },
+      {
+        "name": "Sand Rush",
+        "hidden": true
+      }
     ]
   },
   {
@@ -442,6 +600,20 @@
     },
     "type": [
       "Poison"
+    ],
+    "ability": [
+      {
+        "name": "Rivalry",
+        "hidden": false
+      },
+      {
+        "name": "Poison Point",
+        "hidden": false
+      },
+      {
+        "name": "Hustle",
+        "hidden": true
+      }
     ]
   },
   {
@@ -452,6 +624,20 @@
     },
     "type": [
       "Poison"
+    ],
+    "ability": [
+      {
+        "name": "Rivalry",
+        "hidden": false
+      },
+      {
+        "name": "Poison Point",
+        "hidden": false
+      },
+      {
+        "name": "Hustle",
+        "hidden": true
+      }
     ]
   },
   {
@@ -463,6 +649,20 @@
     "type": [
       "Poison",
       "Ground"
+    ],
+    "ability": [
+      {
+        "name": "Rivalry",
+        "hidden": false
+      },
+      {
+        "name": "Poison Point",
+        "hidden": false
+      },
+      {
+        "name": "Sheer Force",
+        "hidden": true
+      }
     ]
   },
   {
@@ -473,6 +673,20 @@
     },
     "type": [
       "Poison"
+    ],
+    "ability": [
+      {
+        "name": "Rivalry",
+        "hidden": false
+      },
+      {
+        "name": "Poison Point",
+        "hidden": false
+      },
+      {
+        "name": "Hustle",
+        "hidden": true
+      }
     ]
   },
   {
@@ -483,6 +697,20 @@
     },
     "type": [
       "Poison"
+    ],
+    "ability": [
+      {
+        "name": "Rivalry",
+        "hidden": false
+      },
+      {
+        "name": "Poison Point",
+        "hidden": false
+      },
+      {
+        "name": "Hustle",
+        "hidden": true
+      }
     ]
   },
   {
@@ -494,6 +722,20 @@
     "type": [
       "Poison",
       "Ground"
+    ],
+    "ability": [
+      {
+        "name": "Rivalry",
+        "hidden": false
+      },
+      {
+        "name": "Poison Point",
+        "hidden": false
+      },
+      {
+        "name": "Sheer Force",
+        "hidden": true
+      }
     ]
   },
   {
@@ -504,6 +746,20 @@
     },
     "type": [
       "Fairy"
+    ],
+    "ability": [
+      {
+        "name": "Magic Guard",
+        "hidden": false
+      },
+      {
+        "name": "Cute Charm",
+        "hidden": false
+      },
+      {
+        "name": "Friend Guard",
+        "hidden": true
+      }
     ]
   },
   {
@@ -514,6 +770,20 @@
     },
     "type": [
       "Fairy"
+    ],
+    "ability": [
+      {
+        "name": "Magic Guard",
+        "hidden": false
+      },
+      {
+        "name": "Cute Charm",
+        "hidden": false
+      },
+      {
+        "name": "Unaware",
+        "hidden": true
+      }
     ]
   },
   {
@@ -524,6 +794,16 @@
     },
     "type": [
       "Fire"
+    ],
+    "ability": [
+      {
+        "name": "Flash Fire",
+        "hidden": false
+      },
+      {
+        "name": "Drought",
+        "hidden": true
+      }
     ]
   },
   {
@@ -534,6 +814,16 @@
     },
     "type": [
       "Fire"
+    ],
+    "ability": [
+      {
+        "name": "Flash Fire",
+        "hidden": false
+      },
+      {
+        "name": "Drought",
+        "hidden": true
+      }
     ]
   },
   {
@@ -545,6 +835,20 @@
     "type": [
       "Normal",
       "Fairy"
+    ],
+    "ability": [
+      {
+        "name": "Competitive",
+        "hidden": false
+      },
+      {
+        "name": "Cute Charm",
+        "hidden": false
+      },
+      {
+        "name": "Friend Guard",
+        "hidden": true
+      }
     ]
   },
   {
@@ -556,6 +860,20 @@
     "type": [
       "Normal",
       "Fairy"
+    ],
+    "ability": [
+      {
+        "name": "Competitive",
+        "hidden": false
+      },
+      {
+        "name": "Cute Charm",
+        "hidden": false
+      },
+      {
+        "name": "Frisk",
+        "hidden": true
+      }
     ]
   },
   {
