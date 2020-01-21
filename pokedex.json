@@ -14500,6 +14500,16 @@
     },
     "type": [
       "Grass"
+    ],
+    "ability": [
+      {
+        "name": "Overgrow",
+        "hidden": false
+      },
+      {
+        "name": "Bulletproof",
+        "hidden": true
+      }
     ]
   },
   {
@@ -14510,6 +14520,16 @@
     },
     "type": [
       "Grass"
+    ],
+    "ability": [
+      {
+        "name": "Overgrow",
+        "hidden": false
+      },
+      {
+        "name": "Bulletproof",
+        "hidden": true
+      }
     ]
   },
   {
@@ -14521,6 +14541,16 @@
     "type": [
       "Grass",
       "Fighting"
+    ],
+    "ability": [
+      {
+        "name": "Overgrow",
+        "hidden": false
+      },
+      {
+        "name": "Bulletproof",
+        "hidden": true
+      }
     ]
   },
   {
@@ -14531,6 +14561,16 @@
     },
     "type": [
       "Fire"
+    ],
+    "ability": [
+      {
+        "name": "Blaze",
+        "hidden": false
+      },
+      {
+        "name": "Magician",
+        "hidden": true
+      }
     ]
   },
   {
@@ -14541,6 +14581,16 @@
     },
     "type": [
       "Fire"
+    ],
+    "ability": [
+      {
+        "name": "Blaze",
+        "hidden": false
+      },
+      {
+        "name": "Magician",
+        "hidden": true
+      }
     ]
   },
   {
@@ -14552,6 +14602,16 @@
     "type": [
       "Fire",
       "Psychic"
+    ],
+    "ability": [
+      {
+        "name": "Blaze",
+        "hidden": false
+      },
+      {
+        "name": "Magician",
+        "hidden": true
+      }
     ]
   },
   {
@@ -14562,6 +14622,16 @@
     },
     "type": [
       "Water"
+    ],
+    "ability": [
+      {
+        "name": "Torrent",
+        "hidden": false
+      },
+      {
+        "name": "Protean",
+        "hidden": true
+      }
     ]
   },
   {
@@ -14572,6 +14642,16 @@
     },
     "type": [
       "Water"
+    ],
+    "ability": [
+      {
+        "name": "Torrent",
+        "hidden": false
+      },
+      {
+        "name": "Protean",
+        "hidden": true
+      }
     ]
   },
   {
@@ -14583,6 +14663,16 @@
     "type": [
       "Water",
       "Dark"
+    ],
+    "ability": [
+      {
+        "name": "Torrent",
+        "hidden": false
+      },
+      {
+        "name": "Protean",
+        "hidden": true
+      }
     ]
   },
   {
@@ -14593,6 +14683,20 @@
     },
     "type": [
       "Normal"
+    ],
+    "ability": [
+      {
+        "name": "Cheek Pouch",
+        "hidden": false
+      },
+      {
+        "name": "Pickup",
+        "hidden": false
+      },
+      {
+        "name": "Huge Power",
+        "hidden": true
+      }
     ]
   },
   {
@@ -14604,6 +14708,20 @@
     "type": [
       "Normal",
       "Ground"
+    ],
+    "ability": [
+      {
+        "name": "Cheek Pouch",
+        "hidden": false
+      },
+      {
+        "name": "Pickup",
+        "hidden": false
+      },
+      {
+        "name": "Huge Power",
+        "hidden": true
+      }
     ]
   },
   {
@@ -14615,6 +14733,16 @@
     "type": [
       "Normal",
       "Flying"
+    ],
+    "ability": [
+      {
+        "name": "Big Pecks",
+        "hidden": false
+      },
+      {
+        "name": "Gale Wings",
+        "hidden": true
+      }
     ]
   },
   {
@@ -14626,6 +14754,16 @@
     "type": [
       "Fire",
       "Flying"
+    ],
+    "ability": [
+      {
+        "name": "Flame Body",
+        "hidden": false
+      },
+      {
+        "name": "Gale Wings",
+        "hidden": true
+      }
     ]
   },
   {
@@ -14637,6 +14775,16 @@
     "type": [
       "Fire",
       "Flying"
+    ],
+    "ability": [
+      {
+        "name": "Flame Body",
+        "hidden": false
+      },
+      {
+        "name": "Gale Wings",
+        "hidden": true
+      }
     ]
   },
   {
@@ -14647,6 +14795,20 @@
     },
     "type": [
       "Bug"
+    ],
+    "ability": [
+      {
+        "name": "Compound Eyes",
+        "hidden": false
+      },
+      {
+        "name": "Shield Dust",
+        "hidden": false
+      },
+      {
+        "name": "Friend Guard",
+        "hidden": true
+      }
     ]
   },
   {
@@ -14657,6 +14819,16 @@
     },
     "type": [
       "Bug"
+    ],
+    "ability": [
+      {
+        "name": "Shed Skin",
+        "hidden": false
+      },
+      {
+        "name": "Friend Guard",
+        "hidden": true
+      }
     ]
   },
   {
@@ -14668,6 +14840,20 @@
     "type": [
       "Bug",
       "Flying"
+    ],
+    "ability": [
+      {
+        "name": "Compound Eyes",
+        "hidden": false
+      },
+      {
+        "name": "Shield Dust",
+        "hidden": false
+      },
+      {
+        "name": "Friend Guard",
+        "hidden": true
+      }
     ]
   },
   {
@@ -14679,6 +14865,20 @@
     "type": [
       "Fire",
       "Normal"
+    ],
+    "ability": [
+      {
+        "name": "Unnerve",
+        "hidden": false
+      },
+      {
+        "name": "Rivalry",
+        "hidden": false
+      },
+      {
+        "name": "Moxie",
+        "hidden": true
+      }
     ]
   },
   {
@@ -14690,6 +14890,20 @@
     "type": [
       "Fire",
       "Normal"
+    ],
+    "ability": [
+      {
+        "name": "Unnerve",
+        "hidden": false
+      },
+      {
+        "name": "Rivalry",
+        "hidden": false
+      },
+      {
+        "name": "Moxie",
+        "hidden": true
+      }
     ]
   },
   {
@@ -14700,6 +14914,16 @@
     },
     "type": [
       "Fairy"
+    ],
+    "ability": [
+      {
+        "name": "Flower Veil",
+        "hidden": false
+      },
+      {
+        "name": "Symbiosis",
+        "hidden": true
+      }
     ]
   },
   {
@@ -14710,6 +14934,16 @@
     },
     "type": [
       "Fairy"
+    ],
+    "ability": [
+      {
+        "name": "Flower Veil",
+        "hidden": false
+      },
+      {
+        "name": "Symbiosis",
+        "hidden": true
+      }
     ]
   },
   {
@@ -14720,6 +14954,16 @@
     },
     "type": [
       "Fairy"
+    ],
+    "ability": [
+      {
+        "name": "Flower Veil",
+        "hidden": false
+      },
+      {
+        "name": "Symbiosis",
+        "hidden": true
+      }
     ]
   },
   {
@@ -14730,6 +14974,16 @@
     },
     "type": [
       "Grass"
+    ],
+    "ability": [
+      {
+        "name": "Sap Sipper",
+        "hidden": false
+      },
+      {
+        "name": "Grass Pelt",
+        "hidden": true
+      }
     ]
   },
   {
@@ -14740,6 +14994,16 @@
     },
     "type": [
       "Grass"
+    ],
+    "ability": [
+      {
+        "name": "Sap Sipper",
+        "hidden": false
+      },
+      {
+        "name": "Grass Pelt",
+        "hidden": true
+      }
     ]
   },
   {
@@ -14750,6 +15014,20 @@
     },
     "type": [
       "Fighting"
+    ],
+    "ability": [
+      {
+        "name": "Mold Breaker",
+        "hidden": false
+      },
+      {
+        "name": "Iron Fist",
+        "hidden": false
+      },
+      {
+        "name": "Scrappy",
+        "hidden": true
+      }
     ]
   },
   {
@@ -14761,6 +15039,20 @@
     "type": [
       "Fighting",
       "Dark"
+    ],
+    "ability": [
+      {
+        "name": "Mold Breaker",
+        "hidden": false
+      },
+      {
+        "name": "Iron Fist",
+        "hidden": false
+      },
+      {
+        "name": "Scrappy",
+        "hidden": true
+      }
     ]
   },
   {
@@ -14771,6 +15063,12 @@
     },
     "type": [
       "Normal"
+    ],
+    "ability": [
+      {
+        "name": "Fur Coat",
+        "hidden": false
+      }
     ]
   },
   {
@@ -14781,6 +15079,20 @@
     },
     "type": [
       "Psychic"
+    ],
+    "ability": [
+      {
+        "name": "Infiltrator",
+        "hidden": false
+      },
+      {
+        "name": "Keen Eye",
+        "hidden": false
+      },
+      {
+        "name": "Own Tempo",
+        "hidden": true
+      }
     ]
   },
   {
@@ -14791,6 +15103,20 @@
     },
     "type": [
       "Psychic"
+    ],
+    "ability": [
+      {
+        "name": "Infiltrator",
+        "hidden": false
+      },
+      {
+        "name": "Keen Eye",
+        "hidden": false
+      },
+      {
+        "name": "Prankster",
+        "hidden": true
+      }
     ]
   },
   {
@@ -14802,6 +15128,12 @@
     "type": [
       "Steel",
       "Ghost"
+    ],
+    "ability": [
+      {
+        "name": "No Guard",
+        "hidden": false
+      }
     ]
   },
   {
@@ -14813,6 +15145,12 @@
     "type": [
       "Steel",
       "Ghost"
+    ],
+    "ability": [
+      {
+        "name": "No Guard",
+        "hidden": false
+      }
     ]
   },
   {
@@ -14824,6 +15162,12 @@
     "type": [
       "Steel",
       "Ghost"
+    ],
+    "ability": [
+      {
+        "name": "Stance Change",
+        "hidden": false
+      }
     ]
   },
   {
@@ -14834,6 +15178,16 @@
     },
     "type": [
       "Fairy"
+    ],
+    "ability": [
+      {
+        "name": "Healer",
+        "hidden": false
+      },
+      {
+        "name": "Aroma Veil",
+        "hidden": true
+      }
     ]
   },
   {
@@ -14844,6 +15198,16 @@
     },
     "type": [
       "Fairy"
+    ],
+    "ability": [
+      {
+        "name": "Healer",
+        "hidden": false
+      },
+      {
+        "name": "Aroma Veil",
+        "hidden": true
+      }
     ]
   },
   {
@@ -14854,6 +15218,16 @@
     },
     "type": [
       "Fairy"
+    ],
+    "ability": [
+      {
+        "name": "Sweet Veil",
+        "hidden": false
+      },
+      {
+        "name": "Unburden",
+        "hidden": true
+      }
     ]
   },
   {
@@ -14864,6 +15238,16 @@
     },
     "type": [
       "Fairy"
+    ],
+    "ability": [
+      {
+        "name": "Sweet Veil",
+        "hidden": false
+      },
+      {
+        "name": "Unburden",
+        "hidden": true
+      }
     ]
   },
   {
@@ -14875,6 +15259,20 @@
     "type": [
       "Dark",
       "Psychic"
+    ],
+    "ability": [
+      {
+        "name": "Suction Cups",
+        "hidden": false
+      },
+      {
+        "name": "Contrary",
+        "hidden": false
+      },
+      {
+        "name": "Infiltrator",
+        "hidden": true
+      }
     ]
   },
   {
@@ -14886,6 +15284,20 @@
     "type": [
       "Dark",
       "Psychic"
+    ],
+    "ability": [
+      {
+        "name": "Suction Cups",
+        "hidden": false
+      },
+      {
+        "name": "Contrary",
+        "hidden": false
+      },
+      {
+        "name": "Infiltrator",
+        "hidden": true
+      }
     ]
   },
   {
@@ -14897,6 +15309,20 @@
     "type": [
       "Rock",
       "Water"
+    ],
+    "ability": [
+      {
+        "name": "Sniper",
+        "hidden": false
+      },
+      {
+        "name": "Tough Claws",
+        "hidden": false
+      },
+      {
+        "name": "Pickpocket",
+        "hidden": true
+      }
     ]
   },
   {
@@ -14908,6 +15334,20 @@
     "type": [
       "Rock",
       "Water"
+    ],
+    "ability": [
+      {
+        "name": "Sniper",
+        "hidden": false
+      },
+      {
+        "name": "Tough Claws",
+        "hidden": false
+      },
+      {
+        "name": "Pickpocket",
+        "hidden": true
+      }
     ]
   },
   {
@@ -14919,6 +15359,20 @@
     "type": [
       "Poison",
       "Water"
+    ],
+    "ability": [
+      {
+        "name": "Poison Touch",
+        "hidden": false
+      },
+      {
+        "name": "Poison Point",
+        "hidden": false
+      },
+      {
+        "name": "Adaptability",
+        "hidden": true
+      }
     ]
   },
   {
@@ -14930,6 +15384,20 @@
     "type": [
       "Poison",
       "Dragon"
+    ],
+    "ability": [
+      {
+        "name": "Poison Touch",
+        "hidden": false
+      },
+      {
+        "name": "Poison Point",
+        "hidden": false
+      },
+      {
+        "name": "Adaptability",
+        "hidden": true
+      }
     ]
   },
   {
@@ -14940,6 +15408,12 @@
     },
     "type": [
       "Water"
+    ],
+    "ability": [
+      {
+        "name": "Mega Launcher",
+        "hidden": false
+      }
     ]
   },
   {
@@ -14950,6 +15424,12 @@
     },
     "type": [
       "Water"
+    ],
+    "ability": [
+      {
+        "name": "Mega Launcher",
+        "hidden": false
+      }
     ]
   },
   {
@@ -14961,6 +15441,20 @@
     "type": [
       "Electric",
       "Normal"
+    ],
+    "ability": [
+      {
+        "name": "Sand Veil",
+        "hidden": false
+      },
+      {
+        "name": "Dry Skin",
+        "hidden": false
+      },
+      {
+        "name": "Solar Power",
+        "hidden": true
+      }
     ]
   },
   {
@@ -14972,6 +15466,20 @@
     "type": [
       "Electric",
       "Normal"
+    ],
+    "ability": [
+      {
+        "name": "Sand Veil",
+        "hidden": false
+      },
+      {
+        "name": "Dry Skin",
+        "hidden": false
+      },
+      {
+        "name": "Solar Power",
+        "hidden": true
+      }
     ]
   },
   {
@@ -14983,6 +15491,16 @@
     "type": [
       "Rock",
       "Dragon"
+    ],
+    "ability": [
+      {
+        "name": "Strong Jaw",
+        "hidden": false
+      },
+      {
+        "name": "Sturdy",
+        "hidden": true
+      }
     ]
   },
   {
@@ -14994,6 +15512,16 @@
     "type": [
       "Rock",
       "Dragon"
+    ],
+    "ability": [
+      {
+        "name": "Strong Jaw",
+        "hidden": false
+      },
+      {
+        "name": "Rock Head",
+        "hidden": true
+      }
     ]
   },
   {
@@ -15005,6 +15533,16 @@
     "type": [
       "Rock",
       "Ice"
+    ],
+    "ability": [
+      {
+        "name": "Refrigerate",
+        "hidden": false
+      },
+      {
+        "name": "Snow Warning",
+        "hidden": true
+      }
     ]
   },
   {
@@ -15016,6 +15554,16 @@
     "type": [
       "Rock",
       "Ice"
+    ],
+    "ability": [
+      {
+        "name": "Refrigerate",
+        "hidden": false
+      },
+      {
+        "name": "Snow Warning",
+        "hidden": true
+      }
     ]
   },
   {
@@ -15026,6 +15574,16 @@
     },
     "type": [
       "Fairy"
+    ],
+    "ability": [
+      {
+        "name": "Cute Charm",
+        "hidden": false
+      },
+      {
+        "name": "Pixilate",
+        "hidden": true
+      }
     ]
   },
   {
@@ -15037,6 +15595,20 @@
     "type": [
       "Fighting",
       "Flying"
+    ],
+    "ability": [
+      {
+        "name": "Unburden",
+        "hidden": false
+      },
+      {
+        "name": "Limber",
+        "hidden": false
+      },
+      {
+        "name": "Mold Breaker",
+        "hidden": true
+      }
     ]
   },
   {
@@ -15048,6 +15620,20 @@
     "type": [
       "Electric",
       "Fairy"
+    ],
+    "ability": [
+      {
+        "name": "Pickup",
+        "hidden": false
+      },
+      {
+        "name": "Cheek Pouch",
+        "hidden": false
+      },
+      {
+        "name": "Plus",
+        "hidden": true
+      }
     ]
   },
   {
@@ -15059,6 +15645,16 @@
     "type": [
       "Rock",
       "Fairy"
+    ],
+    "ability": [
+      {
+        "name": "Clear Body",
+        "hidden": false
+      },
+      {
+        "name": "Sturdy",
+        "hidden": true
+      }
     ]
   },
   {
@@ -15069,6 +15665,20 @@
     },
     "type": [
       "Dragon"
+    ],
+    "ability": [
+      {
+        "name": "Hydration",
+        "hidden": false
+      },
+      {
+        "name": "Sap Sipper",
+        "hidden": false
+      },
+      {
+        "name": "Gooey",
+        "hidden": true
+      }
     ]
   },
   {
@@ -15079,6 +15689,20 @@
     },
     "type": [
       "Dragon"
+    ],
+    "ability": [
+      {
+        "name": "Hydration",
+        "hidden": false
+      },
+      {
+        "name": "Sap Sipper",
+        "hidden": false
+      },
+      {
+        "name": "Gooey",
+        "hidden": true
+      }
     ]
   },
   {
@@ -15089,6 +15713,20 @@
     },
     "type": [
       "Dragon"
+    ],
+    "ability": [
+      {
+        "name": "Hydration",
+        "hidden": false
+      },
+      {
+        "name": "Sap Sipper",
+        "hidden": false
+      },
+      {
+        "name": "Gooey",
+        "hidden": true
+      }
     ]
   },
   {
@@ -15100,6 +15738,16 @@
     "type": [
       "Steel",
       "Fairy"
+    ],
+    "ability": [
+      {
+        "name": "Prankster",
+        "hidden": false
+      },
+      {
+        "name": "Magician",
+        "hidden": true
+      }
     ]
   },
   {
@@ -15111,6 +15759,20 @@
     "type": [
       "Ghost",
       "Grass"
+    ],
+    "ability": [
+      {
+        "name": "Frisk",
+        "hidden": false
+      },
+      {
+        "name": "Natural Cure",
+        "hidden": false
+      },
+      {
+        "name": "Harvest",
+        "hidden": true
+      }
     ]
   },
   {
@@ -15122,6 +15784,20 @@
     "type": [
       "Ghost",
       "Grass"
+    ],
+    "ability": [
+      {
+        "name": "Frisk",
+        "hidden": false
+      },
+      {
+        "name": "Natural Cure",
+        "hidden": false
+      },
+      {
+        "name": "Harvest",
+        "hidden": true
+      }
     ]
   },
   {
@@ -15133,6 +15809,20 @@
     "type": [
       "Ghost",
       "Grass"
+    ],
+    "ability": [
+      {
+        "name": "Frisk",
+        "hidden": false
+      },
+      {
+        "name": "Pickup",
+        "hidden": false
+      },
+      {
+        "name": "Insomnia",
+        "hidden": true
+      }
     ]
   },
   {
@@ -15144,6 +15834,20 @@
     "type": [
       "Ghost",
       "Grass"
+    ],
+    "ability": [
+      {
+        "name": "Frisk",
+        "hidden": false
+      },
+      {
+        "name": "Pickup",
+        "hidden": false
+      },
+      {
+        "name": "Insomnia",
+        "hidden": true
+      }
     ]
   },
   {
@@ -15154,6 +15858,20 @@
     },
     "type": [
       "Ice"
+    ],
+    "ability": [
+      {
+        "name": "Ice Body",
+        "hidden": false
+      },
+      {
+        "name": "Own Tempo",
+        "hidden": false
+      },
+      {
+        "name": "Sturdy",
+        "hidden": true
+      }
     ]
   },
   {
@@ -15164,6 +15882,20 @@
     },
     "type": [
       "Ice"
+    ],
+    "ability": [
+      {
+        "name": "Ice Body",
+        "hidden": false
+      },
+      {
+        "name": "Own Tempo",
+        "hidden": false
+      },
+      {
+        "name": "Sturdy",
+        "hidden": true
+      }
     ]
   },
   {
@@ -15175,6 +15907,20 @@
     "type": [
       "Flying",
       "Dragon"
+    ],
+    "ability": [
+      {
+        "name": "Infiltrator",
+        "hidden": false
+      },
+      {
+        "name": "Frisk",
+        "hidden": false
+      },
+      {
+        "name": "Telepathy",
+        "hidden": true
+      }
     ]
   },
   {
@@ -15186,6 +15932,20 @@
     "type": [
       "Flying",
       "Dragon"
+    ],
+    "ability": [
+      {
+        "name": "Infiltrator",
+        "hidden": false
+      },
+      {
+        "name": "Frisk",
+        "hidden": false
+      },
+      {
+        "name": "Telepathy",
+        "hidden": true
+      }
     ]
   },
   {
@@ -15196,6 +15956,12 @@
     },
     "type": [
       "Fairy"
+    ],
+    "ability": [
+      {
+        "name": "Fairy Aura",
+        "hidden": false
+      }
     ]
   },
   {
@@ -15207,6 +15973,12 @@
     "type": [
       "Dark",
       "Flying"
+    ],
+    "ability": [
+      {
+        "name": "Dark Aura",
+        "hidden": false
+      }
     ]
   },
   {
@@ -15218,6 +15990,12 @@
     "type": [
       "Dragon",
       "Ground"
+    ],
+    "ability": [
+      {
+        "name": "Aura Break",
+        "hidden": false
+      }
     ]
   },
   {
@@ -15229,6 +16007,12 @@
     "type": [
       "Rock",
       "Fairy"
+    ],
+    "ability": [
+      {
+        "name": "Clear Body",
+        "hidden": false
+      }
     ]
   },
   {
@@ -15240,6 +16024,12 @@
     "type": [
       "Psychic",
       "Ghost"
+    ],
+    "ability": [
+      {
+        "name": "Magician",
+        "hidden": false
+      }
     ]
   },
   {
@@ -15251,6 +16041,12 @@
     "type": [
       "Fire",
       "Water"
+    ],
+    "ability": [
+      {
+        "name": "Water Absorb",
+        "hidden": false
+      }
     ]
   },
   {
